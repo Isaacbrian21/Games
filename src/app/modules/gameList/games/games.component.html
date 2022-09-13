@@ -1,0 +1,35 @@
+
+<p-toast></p-toast>
+<h1>LISTA DE GAMES</h1>
+<fieldset class="card">
+  <ul *ngFor="let game of games">
+    
+      <li>
+        <img src="{{ game.url }}" alt="" />
+        <h6>{{ game.name }}</h6>
+        <p>{{ game.descricao }}</p>
+        <h5>{{ game.plataforma }}</h5>
+        <p-rating
+          [ngModel]="game.val3"[readonly]="true"[stars]="5"[cancel]="false"></p-rating>
+        <button
+          pButton
+          pRipple
+          type="button"
+          label="Adcionar aos Favoritos"
+          class="p-button-raised p-button-primary"
+          *ngIf="game"
+          (click)="addFavorito(game)"
+        ></button>
+        <button
+          pButton
+          pRipple
+          type="button"
+          label="ja nos Favoritos"
+          class="p-button-raised p-button-primary"
+          *ngIf="!game"
+          [disabled]
+        ></button>
+      </li>
+    
+  </ul>
+</fieldset>

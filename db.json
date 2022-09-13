@@ -1,0 +1,342 @@
+{
+  "games": [
+    {
+      "url": "https://m.media-amazon.com/images/I/61z7dwAXKpL._AC_SL1000_.jpg",
+      "name": "NEED FOR SPEED",
+      "descricao": "PAYBACK",
+      "plataforma": "PS5",
+      "val3": 3,
+      "id": 25
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71Te8PL3rqL._AC_SL1500_.jpg",
+      "name": "GRAN TURISMO SPORT",
+      "descricao": "THE REAL DRIVE SIMULATOR",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 26
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61OZeW+pPYL._AC_SL1000_.jpg",
+      "name": "THE LAST OF US ",
+      "descricao": "PART III",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 27
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71K+S54OckL._AC_SL1500_.jpg",
+      "name": "UNTIL DOWN",
+      "descricao": "Playstation Hits",
+      "plataforma": "PS4",
+      "val3": 3,
+      "id": 29
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81h0oxLQQPL._AC_SL1500_.jpg",
+      "name": "GOD OF WAR",
+      "descricao": "PlayStation Hits",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 31
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81BGwCmZmiL._AC_SL1500_.jpg",
+      "name": "RESIDENT EVIL 7",
+      "descricao": "Biohazard",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 32
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81WovZI3rlL._AC_SL1500_.jpg",
+      "name": "RESIDENT EVIL 8",
+      "descricao": "Village",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 33
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61F8Iyxqf6L._AC_SL1000_.jpg",
+      "name": "Spider-Man",
+      "descricao": "Miles Morales",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 34
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/815TEngwF7L._AC_SL1500_.jpg",
+      "name": "Spider-Man",
+      "descricao": "Game of the year Edition",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 35
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71uZTUnIg-L._AC_SL1000_.jpg",
+      "name": "Days Gone",
+      "descricao": "Apocalipse Zombie",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 36
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71XrxGqPosL._AC_SL1000_.jpg",
+      "name": "Red Dead",
+      "descricao": "Rendemption 2",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 37
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71+15NSh+NL._AC_SL1500_.jpg",
+      "name": "Uncharted legacy",
+      "descricao": "PlayStation Hits",
+      "plataforma": "PS4",
+      "val3": 3,
+      "id": 38
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81-QbSEKMcL._AC_SL1500_.jpg",
+      "name": "Lego Star Wars",
+      "descricao": "THE  SKYWALKER SAGA",
+      "plataforma": "PS4",
+      "val3": 2,
+      "id": 39
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61sn867lHZL._AC_SL1000_.jpg",
+      "name": "Uncharted",
+      "descricao": "Legado dos ladrões",
+      "plataforma": "PS5",
+      "val3": 4,
+      "id": 40
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81vPLT9c55L._AC_SL1500_.jpg",
+      "name": "Shadow of the Colossus",
+      "descricao": "Forbiden West",
+      "plataforma": "PS4",
+      "val3": 3,
+      "id": 42
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81TBqOBJatL._AC_SL1500_.jpg",
+      "name": "GOD OF WAR III",
+      "descricao": "REMASTER",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 43
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81WlDakgCZL._AC_SL1500_.jpg",
+      "name": "Far Cry 6 ",
+      "descricao": "Ubisoft",
+      "plataforma": "PS5",
+      "val3": 3,
+      "id": 44
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61MXORMRgML._AC_SL1000_.jpg",
+      "name": "Horizon ",
+      "descricao": "Forbidden West ",
+      "plataforma": "PS5",
+      "val3": 5,
+      "id": 45
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81QfmDJdOdS._AC_SL1500_.jpg",
+      "name": "Call of Duty Cold War",
+      "descricao": "Activision",
+      "plataforma": "PS5",
+      "val3": 5,
+      "id": 46
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81ED9VvfBwL._AC_SL1500_.jpg",
+      "name": "Horizon",
+      "descricao": "Zero Down",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 47
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/611I35n-PvL._AC_SL1215_.jpg",
+      "name": "WORLD WAR Z",
+      "descricao": "WWZ Game",
+      "plataforma": "PS4",
+      "val3": 2,
+      "id": 48
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81tATFPbXBL._AC_SL1500_.jpg",
+      "name": "THE DIVISION 2",
+      "descricao": "Tom Clancy's",
+      "plataforma": "PS4",
+      "val3": 3,
+      "id": 49
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61ooPrIK2SL._AC_SL1215_.jpg",
+      "name": "CALL OF DUTY",
+      "descricao": "BLACK OPS III",
+      "plataforma": "PS4",
+      "val3": 3,
+      "id": 50
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71vEitfSl-L._AC_SL1000_.jpg",
+      "name": "CALL OF DUTY",
+      "descricao": "ADVANCED WARFARE",
+      "plataforma": "PS4",
+      "val3": 2,
+      "id": 51
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81V2f9NNWPL._AC_SL1500_.jpg",
+      "name": "ASSASSIN'S CREED",
+      "descricao": "SYNDICATE",
+      "plataforma": "PS4",
+      "val3": 3,
+      "id": 52
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/91nP3qUR3pL._AC_SL1500_.jpg",
+      "name": "FAR CRY 5",
+      "descricao": "UBISOFT",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 53
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/610b1Sw9hGL._AC_SL1000_.jpg",
+      "name": "BATTLEFIELD V",
+      "descricao": "EA ",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 54
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81naA2c0FKL._AC_SL1500_.jpg",
+      "name": "AVENGERS",
+      "descricao": "MARVEL",
+      "plataforma": "PS4",
+      "val3": 3,
+      "id": 55
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/817oumYSwcL._AC_SL1500_.jpg",
+      "name": "BATTLEFIELD 2042",
+      "descricao": "EA",
+      "plataforma": "PS4",
+      "val3": 2,
+      "id": 56
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71CmMstkGjL._AC_SL1215_.jpg",
+      "name": "CALL OF DUTY",
+      "descricao": "WW2",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 57
+    },
+    {
+      "url": "https://images-na.ssl-images-amazon.com/images/I/819zQmqyDcL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "name": "ASSASSIN'S CREED ",
+      "descricao": "VALHALLA",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 58
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71ekFvMw6rL._AC_SL1500_.jpg",
+      "name": "THE LAST OF US",
+      "descricao": "PLAYSTATION HITS",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 59
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_NP_959990-MLB50809733832_072022-O.webp",
+      "name": "Medal Of Honor ",
+      "descricao": "Vanguard",
+      "plataforma": "PS2",
+      "val3": 5,
+      "id": 60
+    }
+  ],
+  "favoritos": [
+    {
+      "url": "https://m.media-amazon.com/images/I/61z7dwAXKpL._AC_SL1000_.jpg",
+      "name": "NEED FOR SPEED",
+      "descricao": "PAYBACK",
+      "plataforma": "PS5",
+      "val3": 3,
+      "id": 25
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71Te8PL3rqL._AC_SL1500_.jpg",
+      "name": "GRAN TURISMO SPORT",
+      "descricao": "THE REAL DRIVE SIMULATOR",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 26
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/61OZeW+pPYL._AC_SL1000_.jpg",
+      "name": "THE LAST OF US ",
+      "descricao": "PART III",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 27
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/81BGwCmZmiL._AC_SL1500_.jpg",
+      "name": "RESIDENT EVIL 7",
+      "descricao": "Biohazard",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 32
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71XrxGqPosL._AC_SL1000_.jpg",
+      "name": "Red Dead",
+      "descricao": "Rendemption 2",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 37
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/610b1Sw9hGL._AC_SL1000_.jpg",
+      "name": "BATTLEFIELD V",
+      "descricao": "EA ",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 54
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/71CmMstkGjL._AC_SL1215_.jpg",
+      "name": "CALL OF DUTY",
+      "descricao": "WW2",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 57
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_NP_959990-MLB50809733832_072022-O.webp",
+      "name": "Medal Of Honor ",
+      "descricao": "Vanguard",
+      "plataforma": "PS2",
+      "val3": 5,
+      "id": 60
+    },
+    {
+      "id": 2,
+      "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfI0eO39wzZaUTDYW0UsV9WJdEfzSIrfOaGdUYyXgQk11MzZ73umLmBaXk8H_BRxb78MaassiWKXnbO7KfWwe0-pD3RgQ2mUGHhDbJhsG5oiOVhvyrZmKx",
+      "name": "Battlefield 2042",
+      "descricao": "War Game",
+      "plataforma": "PS5",
+      "val3": 4
+    }
+  ]
+}

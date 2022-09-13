@@ -1,0 +1,36 @@
+.card{
+  text-align: center;
+  width: 100%;
+  border: transparent;
+  background: transparent;
+
+}
+
+ul {
+  margin-top: 2em;
+  padding-top:2em;
+  color: rgb(0, 0, 0);
+  width: 10%;
+  width: 15em;
+  height: 26em;
+  background: rgb(255, 255, 255);
+  border-radius: 1em;
+  display: inline-block;
+  position: relative;
+  margin-left: 2em;
+ 
+}
+li {
+  list-style: none;
+}
+img {
+  height: 15em;
+  border-radius: 1em 1em 0 0;
+  box-shadow: 3 3 14 black;
+}
+
+
+ul:hover {
+  opacity: 100;
+
+}

@@ -1,0 +1,50 @@
+
+<h1>ADCIONAR E EDITAR GAMES</h1>
+<p-toast> </p-toast>
+<!-- aaaaaaasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd -->
+<fieldset>
+  <form [formGroup]="game" (ngSubmit)=" edit ? onEdit(game.value) :  addGame(game.value)  " clearInput=''>
+    <h5>Adcionar Jogos</h5>
+    <span class="p-float-label">
+      <input id="url" type="text" formControlName="url" pInputText/>
+      <label for="url">Url:</label>
+  </span>
+<br>
+<span class="p-float-label">
+  <input id="name" type="text" formControlName="name" pInputText/>
+  <label for="name">Nome:</label>
+</span>
+<br>
+<span class="p-float-label">
+  <input id="float-input-invalid" type="text" formControlName="descricao" pInputText />
+  <label for="descricao">Descrição:</label>
+</span>
+<br>
+<span class="p-float-label">
+  <input id="plataforma" type="text" formControlName="plataforma" pInputText/>
+  <label for="plataforma">Plataforma:</label>
+  
+</span> 
+<br>
+<span class="p-float-label">
+  <input id="val3" type="number" formControlName="val3" pInputText/>
+  <label for="nota">Nota:</label>
+  
+</span>
+  <p-button type="submit" [disabled]="!game.valid">Adcionar</p-button>
+</form>
+</fieldset>
+
+<div>
+    <ul *ngFor="let game of games">
+        <li>
+          <img src="{{game.url}}" alt="">
+          <h6>{{ game.name }}</h6>
+          <p>{{game.descricao}}</p>
+          <h5>{{game.plataforma}}</h5>
+          <p-rating [ngModel]="game.val3"[readonly]="true" [stars]="5"[cancel]="false"></p-rating>
+          <p-button class="upd"(click)="startEdit(game)">Editar</p-button>
+          <button pButton pRipple type="button" label="Deletar" class="p-button-raised p-button-danger" (click)="removeGame(game)"></button>
+        </li>
+      </ul>
+  </div>

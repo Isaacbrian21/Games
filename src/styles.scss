@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    color: white;
+    height: 100vh;
+    background-image: url(./assets/backgroundLOGO.png);
+    background-size: cover;
+}
+button{
+    opacity: 0.8;
+    transition: opacity 1s;
+  }
+  button:hover{
+    opacity: 1;
+    transition: opacity 1s;
+  }
+  
+  

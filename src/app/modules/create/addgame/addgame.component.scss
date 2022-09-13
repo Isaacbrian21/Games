@@ -1,0 +1,38 @@
+ul {
+  margin-top: 2em;
+  padding-top: 2em;
+  color: black;
+  display: inline-block;
+  width: 15em;
+  height: 31em;
+  background: white;
+  border-radius: 1em;
+  margin-left: 1em;
+ 
+}
+ul:hover{
+  opacity: 1;
+}
+li {
+  list-style: none;
+}
+
+img {
+  height: 15em;
+}
+fieldset {
+  display: inline-block;
+  text-align: center;
+  width: 90%;
+  border: transparent
+}
+form {
+  background-color: rgb(0, 0, 0);
+  width: 30em;
+  height: 31em;
+  border-radius: 1em;
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  position:-ms-page;
+  
+}
