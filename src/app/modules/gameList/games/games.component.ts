@@ -5,6 +5,7 @@ import { GamesService } from '../../service/games.service';
 import { Favorito } from 'src/app/core/models/fav.models';
 import { FavoriteService } from '../../services/favorite.service';
 import {MessageService} from 'primeng/api';
+import { AnimateService } from '../../animation/service/animate.service';
 
 @Component({
   selector: 'app-games',
@@ -36,7 +37,8 @@ export class GamesComponent implements OnInit {
   constructor(
     private gamesService: GamesService,
     private favService: FavoriteService,
-    private messageService: MessageService
+    private messageService: MessageService,
+    private animate: AnimateService
   ) {
     this.getGames();
   }
@@ -47,6 +49,10 @@ export class GamesComponent implements OnInit {
     this.gamesService.getAll().subscribe((games) => {
       this.games = games;
       console.log(games);
+      setTimeout(() =>{
+        this.animate.requestEnded();
+      }, 3000)
+      this.animate.requestStarted();
     });
   }
 

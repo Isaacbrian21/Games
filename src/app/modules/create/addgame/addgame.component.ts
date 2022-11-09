@@ -3,6 +3,7 @@ import { FormBuilder, FormControl, FormGroup, Validators } from '@angular/forms'
 import { Games } from 'src/app/core/models/games.models';
 import { GamesService } from '../../service/games.service';
 import {MessageService} from 'primeng/api';
+import { AnimateService } from '../../animation/service/animate.service';
 
 
 @Component({
@@ -38,7 +39,9 @@ export class AddgameComponent implements OnInit {
   }
 
  //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-  constructor(private gamesService: GamesService, private fb: FormBuilder, private messageService: MessageService) {
+  constructor(private gamesService: GamesService, private fb: FormBuilder,
+     private messageService: MessageService,
+     private animate: AnimateService) {
     this.getGames();
   }
 
@@ -67,6 +70,10 @@ export class AddgameComponent implements OnInit {
     this.gamesService.getAll().subscribe((games) => {
       this.games = games
       console.log(games);
+      setTimeout(() =>{
+        this.animate.requestEnded();
+      }, 3000)
+      this.animate.requestStarted();
     });
 
   }
