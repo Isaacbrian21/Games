@@ -81,6 +81,9 @@ header{
     text-decoration: none;
     color: white;
   }
+  .menu ul li a.active {
+    color: blue
+  }
   .menu ul li a:hover{
     color: blue;
     cursor: pointer;
@@ -151,4 +154,4 @@ header{
   
   }
   }
-  
+ 

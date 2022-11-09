@@ -56,10 +56,10 @@
           <div class="menu" [class.menuClasse]="menuVariable">
     
             <ul>
-              <li> <a routerLink="/home">Home</a></li>
-              <li> <a routerLink="/newg">Adcionar</a></li>
-              <li> <a routerLink="/games">Games</a></li>
-              <li> <a routerLink="/favGames">Favoritos</a></li>
+              <li> <a routerLinkActive="active" routerLink="/home">Home</a></li>
+              <li> <a routerLinkActive="active" routerLink="/newg">Adcionar</a></li>
+              <li> <a routerLinkActive="active" routerLink="/games">Games</a></li>
+              <li> <a routerLinkActive="active" routerLink="/favGames">Favoritos</a></li>
               <li> <a href="https://www.linkedin.com/in/isaac-brian-da-silva-8836ab19b/" target="https://www.linkedin.com/in/isaac-brian-da-silva-8836ab19b/" >About Me</a></li>
            
             </ul>
@@ -73,3 +73,4 @@
   </header>
     <router-outlet></router-outlet>
     <app-load-animate></app-load-animate>
+    

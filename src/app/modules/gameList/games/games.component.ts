@@ -51,7 +51,7 @@ export class GamesComponent implements OnInit {
       console.log(games);
       setTimeout(() =>{
         this.animate.requestEnded();
-      }, 3000)
+      }, 7000)
       this.animate.requestStarted();
     });
   }

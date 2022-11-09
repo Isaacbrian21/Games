@@ -263,17 +263,17 @@
       "plataforma": "PS2",
       "val3": 5,
       "id": 60
+    },
+    {
+      "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRj1d9Gxs9Bc8Qxnym3VUwXKUBRW7fipXH9Oro2tp_sOau5_F_MAFszpB19eDoGZyWMUmSpfGcVvJolnL5jaogG-G5hDIU2O2ind_9ltUe741kdXFmo7CGa&usqp=CAE",
+      "name": "Call Of Duty ",
+      "descricao": "Vanguard",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 61
     }
   ],
   "favoritos": [
-    {
-      "url": "https://m.media-amazon.com/images/I/71Te8PL3rqL._AC_SL1500_.jpg",
-      "name": "GRAN TURISMO SPORT",
-      "descricao": "THE REAL DRIVE SIMULATOR",
-      "plataforma": "PS4",
-      "val3": 4,
-      "id": 26
-    },
     {
       "url": "https://m.media-amazon.com/images/I/61OZeW+pPYL._AC_SL1000_.jpg",
       "name": "THE LAST OF US ",
@@ -329,6 +329,14 @@
       "descricao": "War Game",
       "plataforma": "PS5",
       "val3": 4
+    },
+    {
+      "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRj1d9Gxs9Bc8Qxnym3VUwXKUBRW7fipXH9Oro2tp_sOau5_F_MAFszpB19eDoGZyWMUmSpfGcVvJolnL5jaogG-G5hDIU2O2ind_9ltUe741kdXFmo7CGa&usqp=CAE",
+      "name": "Call Of Duty ",
+      "descricao": "Vanguard",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 61
     }
   ]
 }

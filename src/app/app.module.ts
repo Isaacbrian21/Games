@@ -10,11 +10,12 @@ import { LoadAnimateComponent } from './modules/animation/load-animate/load-anim
 
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
     LoadAnimateComponent,
-    
+ 
    
     
   ],

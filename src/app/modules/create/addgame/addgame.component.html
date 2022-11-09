@@ -1,6 +1,6 @@
 
-<h1>ADCIONAR E EDITAR GAMES</h1>
 <p-toast> </p-toast>
+<h1>ADCIONAR E EDITAR GAMES</h1>
 <!-- aaaaaaasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd -->
 <fieldset>
   <form [formGroup]="game" (ngSubmit)=" edit ? onEdit(game.value) :  addGame(game.value)  " clearInput=''>
@@ -31,9 +31,11 @@
   <label for="nota">Nota:</label>
   
 </span>
-  <p-button type="submit" [disabled]="!game.valid">Adcionar</p-button>
+<br>
+  <p-button  type="submit" [disabled]="!game.valid">Adcionar</p-button>
 </form>
 </fieldset>
+
 
 <div>
     <ul *ngFor="let game of games">
@@ -43,7 +45,8 @@
           <p>{{game.descricao}}</p>
           <h5>{{game.plataforma}}</h5>
           <p-rating [ngModel]="game.val3"[readonly]="true" [stars]="5"[cancel]="false"></p-rating>
-          <p-button class="upd"(click)="startEdit(game)">Editar</p-button>
+          
+           <p-button class="upd"(click)="startEdit(game)">Editar</p-button>
           <button pButton pRipple type="button" label="Deletar" class="p-button-raised p-button-danger" (click)="removeGame(game)"></button>
         </li>
       </ul>
