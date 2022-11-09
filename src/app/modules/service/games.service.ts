@@ -8,7 +8,7 @@ import { Games } from 'src/app/core/models/games.models';
   providedIn: 'root',
 })
 export class GamesService {
-  private apiUrl = 'http://localhost:8080/games';
+  private apiUrl = 'http://localhost:3000/games';
 
 
   constructor(private http: HttpClient) {}

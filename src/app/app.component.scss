@@ -48,7 +48,9 @@ margin-top: 12px;
 }
 
 header{
-
+    position: fixed;
+    width: 100%;
+    z-index: 1;
     padding:12px 0;
     background-color: black;
     background-image: url(../assets/header.mp4) ;
@@ -59,6 +61,7 @@ header{
 }
   .menu{
    margin-top: 10px;
+   z-index: 1;
   }
   .menu ul{
     padding: 0;

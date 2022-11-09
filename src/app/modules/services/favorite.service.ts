@@ -10,7 +10,7 @@ import { Favorito } from 'src/app/core/models/fav.models';
   providedIn: 'root'
 })
 export class FavoriteService {
-private favUrl = 'http://localhost:8080/favorite'
+private favUrl = 'http://localhost:3000/favorite'
   constructor(private http: HttpClient) { }
 
 
