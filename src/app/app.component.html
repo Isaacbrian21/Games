@@ -1,76 +1,10 @@
-<!-- <header>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-3 col-sm-3 col-3">
-        <div class="logo">
-          <img src="../assets/games.png" alt="Logo">
-        </div>
-      </div>
-      <div class="col-md-9 col-sm-9 col-9 text-end">
-        <div class="menu">
-          <ul>
-            <li> <a routerLink="/home">Home</a></li>
-            <li> <a routerLink="/newg">Adcionar</a></li>
-            <li> <a routerLink="/games">Games</a></li>
-            <li> <a routerLink="/favGames">Favoritos</a></li>
-            <li> <a href="https://www.linkedin.com/in/isaac-brian-da-silva-8836ab19b/" target="https://www.linkedin.com/in/isaac-brian-da-silva-8836ab19b/" >About Me</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
+<header class="h">
+  <ul class="h__options">
+    <li class="h__options__list"> <a  routerLink="/home" routerLinkActive="activated">Home</a></li>
+    <li  class="h__options__list"> <a routerLink="/games"  routerLinkActive="activated">Games</a></li>
+    <li  class="h__options__list"> <a routerLink="/favGames"  routerLinkActive="activated">Favoritos</a></li>
+    <li  class="h__options__list"> <a href="https://www.linkedin.com/in/isaac-brian-da-silva-8836ab19b/"
+        target="https://www.linkedin.com/in/isaac-brian-da-silva-8836ab19b/">About Me</a></li>
+  </ul>
 </header>
-
-
-<nav>
-  <div>
-    <a><img src="../assets/7games.jpg" alt="Home"></a>
-    <ul>
-      <li> <a routerLink="/favGames">Favoritos</a></li>
-      <li> <a routerLink="/games">Games</a></li>
-      <li> <a routerLink="/newg">Adcionar</a></li>
-      <li> <a routerLink="/home">Home</a></li>
-      
-    </ul>
-  </div>
-</nav> --> 
- 
-  
-  <header>
-    <div  class="container">
-  
-
-        
-  
-        <div class="image">
-          <a><img src="../assets/logo.png" alt="Home"></a>
-
-        </div>
-        <div class="menu_icon" [class.menu_iconClass]="menu_icon_variable" (click)="openMenu()">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-  
-          
-          <div class="menu" [class.menuClasse]="menuVariable">
-    
-            <ul>
-              <li> <a routerLinkActive="active" routerLink="/home">Home</a></li>
-              <li> <a routerLinkActive="active" routerLink="/newg">Adcionar</a></li>
-              <li> <a routerLinkActive="active" routerLink="/games">Games</a></li>
-              <li> <a routerLinkActive="active" routerLink="/favGames">Favoritos</a></li>
-              <li> <a href="https://www.linkedin.com/in/isaac-brian-da-silva-8836ab19b/" target="https://www.linkedin.com/in/isaac-brian-da-silva-8836ab19b/" >About Me</a></li>
-           
-            </ul>
-
-  
-        </div>
-        
-      </div>
-  
-    
-  </header>
-    <router-outlet></router-outlet>
-    <app-load-animate></app-load-animate>
-    
+<router-outlet></router-outlet>

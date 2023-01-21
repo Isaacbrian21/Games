@@ -1,38 +1,32 @@
 
 <p-toast></p-toast>
-
-<h1>MEUS FAVORITOS</h1>
-<p-confirmDialog [style]="{width: '50vw'}" [baseZIndex]="10000"></p-confirmDialog>
-<div class="favAll">
-  <ul *ngFor="let favorito of favoritos">
-    
-      <li>
+<div class="title">
+  <h1>Meus Favoritos</h1>
+</div>
+<section class="main">
+  
+  <div class="main__card">
+    <ul *ngFor="let favorito of favoritos">
+      <li class="main__card__game">
         <img src="{{ favorito.url }}" alt="" />
         <h6>{{ favorito.name }}</h6>
         <p>{{ favorito.descricao }}</p>
         <h5>{{ favorito.plataforma }}</h5>
-        <p-rating class="stars"
-          [ngModel]="favorito.val3"
-          [readonly]="true"
-          (onRate)="changeRating(favorito, favorito.id)"
-          [stars]="5"
-          [cancel]="true"
-        ></p-rating>
-        <button
+        <p-rating [ngModel]="favorito.val3" [readonly]="true" [stars]="5" [cancel]="false"></p-rating>
+        
+        <div class="main__card__game__btn">
+          <button
           pButton
           pRipple
           type="button"
-          label="Remover dos favoritos"
           class="p-button-raised p-button-danger"
           (click)="confirm2(favorito)"
-          ></button>
-        </li>
-        
-        <!-- (click)="removeFav(favorito)" -->
-  </ul>
-</div>
-
-
-<!-- 
-<p-button (click)="confirm1()" icon="pi pi-check" label="Confirm"></p-button>
-<p-button (click)="confirm2()" icon="pi pi-times" label="Delete"></p-button> -->
+          > <i class="pi pi-trash"></i></button>
+        </div>
+      </li>
+    </ul>
+  </div>
+  
+  
+  
+  <p-confirmDialog [style]="{width: '50vw'}" [baseZIndex]="10000"></p-confirmDialog>

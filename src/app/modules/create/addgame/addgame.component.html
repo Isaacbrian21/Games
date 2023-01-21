@@ -1,53 +1,42 @@
-
 <p-toast> </p-toast>
-<h1>ADCIONAR E EDITAR GAMES</h1>
-<!-- aaaaaaasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd -->
-<fieldset>
-  <form [formGroup]="game" (ngSubmit)=" edit ? onEdit(game.value) :  addGame(game.value)  " clearInput=''>
-    <h5>Adcionar Jogos</h5>
-    <span class="p-float-label">
-      <input id="url" type="text" formControlName="url" pInputText/>
-      <label for="url">Url:</label>
-  </span>
-<br>
-<span class="p-float-label">
-  <input id="name" type="text" formControlName="name" pInputText/>
-  <label for="name">Nome:</label>
-</span>
-<br>
-<span class="p-float-label">
-  <input id="float-input-invalid" type="text" formControlName="descricao" pInputText />
-  <label for="descricao">Descrição:</label>
-</span>
-<br>
-<span class="p-float-label">
-  <input id="plataforma" type="text" formControlName="plataforma" pInputText/>
-  <label for="plataforma">Plataforma:</label>
-  
-</span> 
-<br>
-<span class="p-float-label">
-  <input id="val3" type="number" formControlName="val3" pInputText/>
-  <label for="nota">Nota:</label>
-  
-</span>
-<br>
-  <p-button  type="submit" [disabled]="!game.valid">Adcionar</p-button>
-</form>
-</fieldset>
+
+<section class="main">
 
 
-<div>
-    <ul *ngFor="let game of games">
-        <li>
-          <img src="{{game.url}}" alt="">
-          <h6>{{ game.name }}</h6>
-          <p>{{game.descricao}}</p>
-          <h5>{{game.plataforma}}</h5>
-          <p-rating [ngModel]="game.val3"[readonly]="true" [stars]="5"[cancel]="false"></p-rating>
-          
-           <p-button class="upd"(click)="startEdit(game)">Editar</p-button>
-          <button pButton pRipple type="button" label="Deletar" class="p-button-raised p-button-danger" (click)="removeGame(game)"></button>
-        </li>
-      </ul>
+  <div class="main__message">
+    <h1>Adcionar novos jogos</h1>
   </div>
+  <form class="main__form" novalidate [formGroup]="form">
+
+    <span class="p-float-label">
+      <label for="url">Url Image:</label>
+      <input id="float-input" type="text" id="url" formControlName="url" pInputText>
+    </span>
+
+    <span class="p-float-label">
+      <label for="name">Name:</label>
+      <input id="float-input" type="text" id="name" formControlName="name" pInputText>
+    </span>
+
+    <span class="p-float-label">
+      <label for="descricao">Descrição:</label>
+      <input id="float-input" type="text" id="descricao" formControlName="descricao" pInputText>
+    </span>
+
+    <span class="p-float-label">
+      <label for="plataforma">Plataforma:</label>
+      <input id="float-input" type="text" id="plataforma" pInputText formControlName="plataforma">
+    </span>
+
+    <span class="p-float-label">
+      <label for="float-input" for="val3">Avaliação:</label>
+      <input id="p-input" type="number" pInputText id="val3" placeholder="Nota" formControlName="val3">
+    </span>
+    <div class="main__form__btn">
+      <button pButton pRipple type="button" label="Salvar" class="p-button-raised p-button-primary"
+        (click)="onSubmit()"></button>
+      <button pButton pRipple type="button" label="Cancelar" (click)="onCancel()"
+        class="p-button-raised p-button-danger"></button>
+    </div>
+  </form>
+</section>

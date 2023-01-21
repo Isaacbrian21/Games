@@ -6,8 +6,10 @@ import { ReactiveFormsModule } from '@angular/forms';
 import {RatingModule} from 'primeng/rating';
 import { FormsModule } from '@angular/forms';
 import {ButtonModule} from 'primeng/button';
-
 import {ToastModule} from 'primeng/toast';
+import { DialogModule } from 'primeng/dialog';
+import { InputTextModule } from 'primeng/inputtext';
+import {InputNumberModule} from 'primeng/inputnumber';
 
 
 const routes: Routes = [{
@@ -24,6 +26,9 @@ const routes: Routes = [{
     FormsModule,
     ButtonModule,
     ToastModule,
+    DialogModule,
+    InputTextModule,
+    InputNumberModule
   ],
   exports: [RouterModule]
 })

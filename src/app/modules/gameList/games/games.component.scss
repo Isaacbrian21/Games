@@ -1,37 +1,89 @@
-.card{
-  text-align: center;
-  width: 100%;
-  border: transparent;
-  background: transparent;
-  margin: 70px 0 0 0
+.addNewGame {
+  margin: 15px;
+  display: flex;
+  position: fixed;
+  float: right;
 
 }
 
-ul {
-  margin-top: 2em;
-  padding-top:2em;
-  color: rgb(0, 0, 0);
-  width: 10%;
-  width: 15em;
-  height: 26em;
-  background: rgb(255, 255, 255);
-  border-radius: 1em;
-  display: inline-block;
-  position: relative;
-  margin-left: 2em;
- 
-}
-li {
-  list-style: none;
-}
-img {
-  height: 15em;
-  border-radius: 1em 1em 0 0;
-  box-shadow: 3 3 14 black;
-}
+.main {
+  padding: 3vh 6vw 6vh 6vw;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
 
 
-ul:hover {
-  opacity: 100;
 
+  &__card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px 0 20px 0;
+
+    &__game {
+      background: white;
+      height: 400px;
+      width: 260px;
+      color: black;
+      margin: 0 0 20px 0;
+      border-radius: 7px;
+
+
+
+      &__btn {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 10px;
+
+
+      }
+
+    }
+  }
+
+  &__card img {
+    width: 200px;
+    padding: 5px 0 0 0;
+  }
 }
+
+@media(max-width: 900px) {
+
+  .main {
+    &__card {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+
+      &__game {
+        width: 280px;
+        height: 150px;
+        display: flex;
+        justify-content: space-around;
+
+        &__letters {
+          display: flex;
+          flex-direction: column;
+          margin-top: 10px;
+
+        }
+
+        &__btn {
+          flex-direction: column;
+
+        }
+
+        &__btn button {
+          height: 2em;
+        }
+      }
+    }
+
+    &__card img {
+      height: 140px;
+      width: 100px;
+      padding: 5px 0 0 0;
+
+    }
+  }
+} 

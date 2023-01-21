@@ -11,7 +11,8 @@ import {ConfirmDialogModule} from 'primeng/confirmdialog';
 import {ToastModule} from 'primeng/toast';
 import {MessagesModule} from 'primeng/messages';
 import {MessageModule} from 'primeng/message';
-import {MatDialogModule} from '@angular/material/dialog';
+
+
 
 
 const routes: Routes = [{
@@ -20,7 +21,6 @@ const routes: Routes = [{
 }]
 @NgModule({
   declarations: [AddgameComponent],
-
   imports: [
     CommonModule,
     RouterModule.forChild(routes),
@@ -33,8 +33,6 @@ const routes: Routes = [{
     ToastModule,
     MessageModule,
     MessagesModule,
-    MatDialogModule
-
     
   ],
   exports: [RouterModule]
