@@ -10,7 +10,7 @@ import { Favorito } from 'src/app/core/models/fav.models';
   providedIn: 'root'
 })
 export class FavoriteService {
-private favUrl = 'http://localhost:3000/favoritos'
+private favUrl = ' http://localhost:3000/favoritos'
   constructor(private http: HttpClient) { }
 
 
@@ -24,5 +24,8 @@ private favUrl = 'http://localhost:3000/favoritos'
 
   removeFav(id: number): Observable<void>{
     return this.http.delete<void>(`${this.favUrl}/${id}`)
+  }
+  changeRating(favorito: Favorito, id: Number){
+    return this.http.put<Favorito>(`${this.favUrl}/${id}`, favorito)
   }
 }

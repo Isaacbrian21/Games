@@ -13,15 +13,15 @@
       "name": "GRAN TURISMO SPORT",
       "descricao": "THE REAL DRIVE SIMULATOR",
       "plataforma": "PS4",
-      "val3": 4,
+      "val3": 1,
       "id": 26
     },
     {
       "url": "https://m.media-amazon.com/images/I/61OZeW+pPYL._AC_SL1000_.jpg",
       "name": "THE LAST OF US ",
-      "descricao": "PART II",
+      "descricao": "PART III",
       "plataforma": "PS4",
-      "val3": 40,
+      "val3": 4,
       "id": 27
     },
     {
@@ -257,30 +257,30 @@
       "id": 59
     },
     {
-      "url": "aaaaaaaaaaa",
-      "name": "aaaaaaaa",
-      "descricao": "aaaaaaaaa",
-      "plataforma": "aaaaaaaaaaaaaaaaaaaaaaaaaa",
-      "val3": -1,
+      "url": "https://http2.mlstatic.com/D_NQ_NP_959990-MLB50809733832_072022-O.webp",
+      "name": "Medal Of Honor ",
+      "descricao": "Vanguard",
+      "plataforma": "PS2",
+      "val3": 5,
       "id": 60
+    },
+    {
+      "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRj1d9Gxs9Bc8Qxnym3VUwXKUBRW7fipXH9Oro2tp_sOau5_F_MAFszpB19eDoGZyWMUmSpfGcVvJolnL5jaogG-G5hDIU2O2ind_9ltUe741kdXFmo7CGa&usqp=CAE",
+      "name": "Call Of Duty ",
+      "descricao": "Vanguard",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 61
     }
   ],
   "favoritos": [
     {
-      "url": "https://m.media-amazon.com/images/I/71K+S54OckL._AC_SL1500_.jpg",
-      "name": "UNTIL DOWN",
-      "descricao": "Playstation Hits",
-      "plataforma": "PS4",
-      "val3": 3,
-      "id": 29
-    },
-    {
-      "url": "https://m.media-amazon.com/images/I/81h0oxLQQPL._AC_SL1500_.jpg",
-      "name": "GOD OF WAR",
-      "descricao": "PlayStation Hits",
+      "url": "https://m.media-amazon.com/images/I/61OZeW+pPYL._AC_SL1000_.jpg",
+      "name": "THE LAST OF US ",
+      "descricao": "PART III",
       "plataforma": "PS4",
       "val3": 4,
-      "id": 31
+      "id": 27
     },
     {
       "url": "https://m.media-amazon.com/images/I/81BGwCmZmiL._AC_SL1500_.jpg",
@@ -291,12 +291,12 @@
       "id": 32
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81ED9VvfBwL._AC_SL1500_.jpg",
-      "name": "Horizon",
-      "descricao": "Zero Down",
+      "url": "https://m.media-amazon.com/images/I/71XrxGqPosL._AC_SL1000_.jpg",
+      "name": "Red Dead",
+      "descricao": "Rendemption 2",
       "plataforma": "PS4",
       "val3": 5,
-      "id": 47
+      "id": 37
     },
     {
       "url": "https://m.media-amazon.com/images/I/610b1Sw9hGL._AC_SL1000_.jpg",
@@ -307,14 +307,6 @@
       "id": 54
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71ekFvMw6rL._AC_SL1500_.jpg",
-      "name": "THE LAST OF US",
-      "descricao": "PLAYSTATION HITS",
-      "plataforma": "PS4",
-      "val3": 4,
-      "id": 59
-    },
-    {
       "url": "https://m.media-amazon.com/images/I/71CmMstkGjL._AC_SL1215_.jpg",
       "name": "CALL OF DUTY",
       "descricao": "WW2",
@@ -323,51 +315,27 @@
       "id": 57
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71uZTUnIg-L._AC_SL1000_.jpg",
-      "name": "Days Gone",
-      "descricao": "Apocalipse Zombie",
-      "plataforma": "PS4",
-      "val3": 4,
-      "id": 36
+      "url": "https://http2.mlstatic.com/D_NQ_NP_959990-MLB50809733832_072022-O.webp",
+      "name": "Medal Of Honor ",
+      "descricao": "Vanguard",
+      "plataforma": "PS2",
+      "val3": 5,
+      "id": 60
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81WovZI3rlL._AC_SL1500_.jpg",
-      "name": "RESIDENT EVIL 8",
-      "descricao": "Village",
-      "plataforma": "PS4",
-      "val3": 4,
-      "id": 33
-    },
-    {
-      "url": "https://m.media-amazon.com/images/I/71XrxGqPosL._AC_SL1000_.jpg",
-      "name": "Red Dead",
-      "descricao": "Rendemption 2",
+      "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRj1d9Gxs9Bc8Qxnym3VUwXKUBRW7fipXH9Oro2tp_sOau5_F_MAFszpB19eDoGZyWMUmSpfGcVvJolnL5jaogG-G5hDIU2O2ind_9ltUe741kdXFmo7CGa&usqp=CAE",
+      "name": "Call Of Duty ",
+      "descricao": "Vanguard",
       "plataforma": "PS4",
       "val3": 5,
-      "id": 37
-    },
-    {
-      "url": "https://m.media-amazon.com/images/I/61MXORMRgML._AC_SL1000_.jpg",
-      "name": "Horizon ",
-      "descricao": "Forbidden West ",
-      "plataforma": "PS5",
-      "val3": 5,
-      "id": 45
-    },
-    {
-      "url": "https://m.media-amazon.com/images/I/61OZeW+pPYL._AC_SL1000_.jpg",
-      "name": "THE LAST OF US ",
-      "descricao": "PART II",
-      "plataforma": "PS4",
-      "val3": 5,
-      "id": 27
+      "id": 61
     },
     {
       "url": "https://m.media-amazon.com/images/I/71Te8PL3rqL._AC_SL1500_.jpg",
       "name": "GRAN TURISMO SPORT",
       "descricao": "THE REAL DRIVE SIMULATOR",
       "plataforma": "PS4",
-      "val3": 4,
+      "val3": 1,
       "id": 26
     }
   ]

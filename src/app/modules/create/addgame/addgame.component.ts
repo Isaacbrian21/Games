@@ -1,8 +1,9 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { FormBuilder, FormControl, FormGroup, Validators } from '@angular/forms';
 import { Games } from 'src/app/core/models/games.models';
-import { GamesService } from '../../service/games.service';
+
 import {MessageService} from 'primeng/api';
+import { GamesService } from 'src/app/core/service/games.service';
 
 
 @Component({
@@ -74,3 +75,4 @@ export class AddgameComponent implements OnInit {
 
   
 }
+

@@ -10,6 +10,7 @@ import { Games } from 'src/app/core/models/games.models';
 export class GamesService {
   private apiUrl = 'http://localhost:3000/games';
 
+
   constructor(private http: HttpClient) {}
 
   public getAll(): Observable<Games[]> {
@@ -26,4 +27,5 @@ export class GamesService {
   public updadteGame(game: Games, id: number): Observable<Games> {
     return this.http.put<Games>(`${this.apiUrl}/${id}`, game);
   }
+
 }

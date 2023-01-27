@@ -1,5 +1,8 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "cli": {
+    "analytics": "b7926318-6ec7-4faf-943a-0757482ce98c"
+  },
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
@@ -102,8 +105,5 @@
       }
     }
   },
-  "defaultProject": "7games",
-  "cli": {
-    "analytics": "6ccd7dce-b8b6-46fd-8fec-e1f3452b7b18"
-  }
+  "defaultProject": "7games"
 }
