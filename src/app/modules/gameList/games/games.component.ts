@@ -53,10 +53,10 @@ export class GamesComponent implements OnInit {
     this.gamesService.getAll().subscribe((games) => {
       this.games = games;
       console.log(games);
-      setTimeout(() => {
+      /* setTimeout(() => {
         this.animate.requestEnded();
       }, 7000)
-      this.animate.requestStarted();
+      this.animate.requestStarted(); */
     });
   }
 

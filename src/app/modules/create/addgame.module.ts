@@ -12,19 +12,17 @@ import {ToastModule} from 'primeng/toast';
 import {MessagesModule} from 'primeng/messages';
 import {MessageModule} from 'primeng/message';
 import {MatDialogModule} from '@angular/material/dialog';
+import { AddgameRoutingModule } from './addgame-routing.module';
 
 
-const routes: Routes = [{
-  path: '',
-  component: AddgameComponent
-}]
+
 @NgModule({
   declarations: [AddgameComponent],
 
   imports: [
     CommonModule,
-    RouterModule.forChild(routes),
     ReactiveFormsModule,
+    AddgameRoutingModule,
     InputTextModule,
     FormsModule,
     ButtonModule,

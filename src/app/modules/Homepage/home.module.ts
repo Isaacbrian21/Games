@@ -1,21 +1,17 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
-import {CaptchaModule} from 'primeng/captcha';
-import {DialogModule} from 'primeng/dialog';
+import { DialogModule } from 'primeng/dialog';
+import { HomeRoutingModule } from './home-routing.module';
 
-const routes: Routes = [{
-  path: '',
-  component: HomeComponent
-}]
+
 @NgModule({
   declarations: [HomeComponent],
   imports: [
     CommonModule,
-    RouterModule.forChild(routes),
+    HomeRoutingModule,
     DialogModule
   ],
-  exports: [RouterModule]
+  exports: [HomeComponent]
 })
 export class HomepModule { }

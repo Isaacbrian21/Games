@@ -4,7 +4,7 @@
 <div class="addNewGame">
 
   <button pButton pRipple type="button" label="Adcionar um novo" class="p-button-raised p-button-primary"
-    routerLink="/newg"></button>
+    routerLink="/myApp/newg"></button>
 </div>
 <section class="main">
 
@@ -16,7 +16,6 @@
         </div>
         <div class="main__card__game__letters">
           <h6>{{ game.name }}</h6>
-          <p>{{ game.descricao }}</p>
           <h5>{{ game.plataforma }}</h5>
           <p-rating [ngModel]="game.val3" [readonly]="true" [stars]="5" [cancel]="false"></p-rating>
         </div>
@@ -27,6 +26,9 @@
 
           <button pButton pRipple type="button" (click)="onEdit(game)" class="p-button-raised p-button-warning"> <i
               class="pi pi-pencil"></i></button>
+
+              <button pButton pRipple type="button" routerLink="/games/details/{{game.id}}" class="p-button-raised p-button-primary"> <i
+                class="pi pi-info-circle"></i></button>
         </div>
       </li>
     </ul>
@@ -52,7 +54,8 @@
           <br>
           <span class="p-float-label">
             <label for="descricao">Descrição:</label>
-            <input id="float-input" type="text" id="descricao" formControlName="descricao" pInputText>
+            <textarea pInputTextarea d="float-input" type="text" id="descricao" formControlName="descricao"></textarea>
+            
           </span>
           <br>
           <span class="p-float-label">

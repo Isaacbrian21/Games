@@ -63,10 +63,10 @@ export class FavGameComponent implements OnInit {
   getFavs(): void {
     this.favoriteService.getFav().subscribe((fav) => {
       this.favoritos = fav; console.log(fav);
-      setTimeout(() => {
+      /* setTimeout(() => {
         this.animate.requestEnded();
       }, 7000)
-      this.animate.requestStarted();
+      this.animate.requestStarted(); */
     })
   }
 

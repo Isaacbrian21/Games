@@ -9,23 +9,23 @@ import {ButtonModule} from 'primeng/button';
 
 import {ToastModule} from 'primeng/toast';
 import { DialogModule } from 'primeng/dialog';
+import { GamesRoutingModule } from './games-routing.module';
+import { GameDetailsComponent } from './game-details/game-details.component';
+import {InputTextareaModule} from 'primeng/inputtextarea';
 
 
-const routes: Routes = [{
-  path: '',
-  component: GamesComponent
-}]
 @NgModule({
-  declarations: [GamesComponent],
+  declarations: [GamesComponent, GameDetailsComponent],
   imports: [
     CommonModule,
-    RouterModule.forChild(routes),
+    GamesRoutingModule,
     ReactiveFormsModule,
     RatingModule,
     FormsModule,
     ButtonModule,
     ToastModule,
-    DialogModule
+    DialogModule,
+    InputTextareaModule
   ],
   exports: [RouterModule]
 })

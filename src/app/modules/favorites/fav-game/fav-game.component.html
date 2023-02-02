@@ -9,7 +9,6 @@
       <li>
         <img src="{{ favorito.url }}" alt="" />
         <h6>{{ favorito.name }}</h6>
-        <p>{{ favorito.descricao }}</p>
         <h5>{{ favorito.plataforma }}</h5>
         <p-rating class="stars"
           [ngModel]="favorito.val3"
@@ -27,12 +26,6 @@
           (click)="confirm2(favorito)"
           ></button>
         </li>
-        
-        <!-- (click)="removeFav(favorito)" -->
+   
   </ul>
 </div>
-
-
-<!-- 
-<p-button (click)="confirm1()" icon="pi pi-check" label="Confirm"></p-button>
-<p-button (click)="confirm2()" icon="pi pi-times" label="Delete"></p-button> -->
