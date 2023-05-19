@@ -9,7 +9,7 @@ import { CardModule, } from 'primeng/card';
 import { ConfirmDialogModule } from 'primeng/confirmdialog';
 import { ToastModule } from 'primeng/toast';
 import { FavgameRoutingModule } from './favgame-routing.module';
-
+import { TableModule } from 'primeng/table';
 
 
 @NgModule({
@@ -22,7 +22,8 @@ import { FavgameRoutingModule } from './favgame-routing.module';
     ButtonModule,
     ConfirmDialogModule,
     CardModule,
-    ToastModule
+    ToastModule,
+    TableModule
 
 
 

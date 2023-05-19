@@ -20,8 +20,14 @@ import { AnimateService } from '../../animation/service/animate.service';
 })
 
 export class FavGameComponent implements OnInit {
-  favoritos: Favorito[] = []
 
+
+
+
+
+
+  favoritos: Favorito[] = []
+fav!: Favorito
   msgs: Message[] = [];
 
 

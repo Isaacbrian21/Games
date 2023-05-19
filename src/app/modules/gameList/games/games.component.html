@@ -4,16 +4,15 @@
 <div class="addNewGame">
 
   <button pButton pRipple type="button" label="Adcionar um novo" class="p-button-raised p-button-primary"
-    routerLink="/myApp/newg"></button>
+    routerLink="/newg"></button>
 </div>
 <section class="main">
 
   <div class="main__card">
     <ul *ngFor="let game of games">
       <li class="main__card__game">
-        <div class="img">
           <img src="{{ game.url }}" alt="" />
-        </div>
+
         <div class="main__card__game__letters">
           <h6>{{ game.name }}</h6>
           <h5>{{ game.plataforma }}</h5>
@@ -55,7 +54,7 @@
           <span class="p-float-label">
             <label for="descricao">Descrição:</label>
             <textarea pInputTextarea d="float-input" type="text" id="descricao" formControlName="descricao"></textarea>
-            
+
           </span>
           <br>
           <span class="p-float-label">

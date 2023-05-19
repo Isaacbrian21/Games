@@ -3,23 +3,25 @@
     <div class="main__all">
 
         <div *ngIf="game" >
-            
+
             <div class="main__card">
                 <div class="main__card__text">
                     <div class="main__card__text__rating">
-                        <h6>Classificação: </h6>
+                        <h2>Classificação: </h2>
                         <p-rating [ngModel]="game.val3" [readonly]="true" [stars]="5" [cancel]="false"></p-rating>
                     </div>
-                    
+
                 <h2>{{game.name}}</h2>
                 <h4>{{game.plataforma}}</h4>
-                <h6>{{game.descricao}}</h6>
-                 <button class="main__btnBack" (click)="back()">Voltar</button> 
+                <div class="main__card__text__desc">
+                  <h4>{{game.descricao}}</h4>
+                </div>
+                 <button class="main__btnBack" (click)="back()">Voltar</button>
             </div>
             <div class="main__card__image">
                 <img src="{{game.url}}" alt="">
             </div>
-            
+
         </div>
 </div>
 </div>

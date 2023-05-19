@@ -1,11 +1,12 @@
 .main {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     color: black;
-    
+
     &__all{
         background-color: white;
-        width: 1000px;
+        width: 1200px;
+        height: 90vh;
         border-radius: 3px;
     }
 
@@ -28,7 +29,7 @@
     &__card {
         display: flex;
         justify-content: space-around;
-        
+
         &__text{
             display: flex;
             flex-direction: column;
@@ -47,11 +48,22 @@
 
                 h6{ margin: 0 55px 30px 0;}
             }
+
+            &__desc{
+              width: 30rem;
+              height: 70vh;
+              position: relative;
+              display: flex;
+              overflow: auto;
+              scroll-snap-align: x mandatory;
+
+            }
         }
     }
 
     &__card img {
         margin: 10px 0 0 190px;
-        height: 400px;
-    }
+        height: 600px;
+        padding: 5rem 0 0 0;
+         }
 }
