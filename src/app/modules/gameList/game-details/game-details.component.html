@@ -1,33 +1,54 @@
+<section class="main" *ngIf="game">
+  <img src="{{game.cover}}" alt="">
 
-<section class="main">
 
-  <div class="main__image">
-     <img src="{{game.cover}}" alt="">
+  <div class="main__game-detail">
 
-     <!--
-     <div class="detalhes-jogo" [ngStyle]="{'background-image': 'url(' + coverUrl + ')'}">
-         Conteúdo dos detalhes do jogo
-        </div>
-      -->
+    <div class="main__game-detail__infos">
 
+      <div class="main__game-detail__name">
+        <h1>{{game.name}}</h1>
+      </div>
+      <div class="main__game-detail__plat">
+
+        <h4>{{game.plataforma}}</h4>
+
+      </div>
+      <div class="main__game-detail__rate"><p-rating [ngModel]="game.val3" [readonly]="true" [stars]="5"
+        [cancel]="false"></p-rating></div>
+
+        <button class="main__btnBack" (click)="back()">Voltar</button>
+      </div>
+
+
+    <div class="main__game-detail__description">
+      <div class="main__game-detail__description__text">
+        <h1>Informações do jogo</h1>
+        <h4>{{game.descricao}}</h4>
+      </div>
+
+    </div>
   </div>
-    <!-- <div class="main__all">
 
-        <div *ngIf="game" >
+
+
+
+
+  <!-- <div class="main__all">
+
+        <div  >
 
             <div class="main__card">
                 <div class="main__card__text">
                     <div class="main__card__text__rating">
                         <h2>Classificação: </h2>
-                        <p-rating [ngModel]="game.val3" [readonly]="true" [stars]="5" [cancel]="false"></p-rating>
+
                     </div>
 
                 <h2>{{game.name}}</h2>
-                <h4>{{game.plataforma}}</h4>
                 <div class="main__card__text__desc">
-                  <h4>{{game.descricao}}</h4>
                 </div>
-                 <button class="main__btnBack" (click)="back()">Voltar</button>
+
             </div>
 
 
