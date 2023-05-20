@@ -27,9 +27,9 @@ export class FavGameComponent implements OnInit {
 
 
   favoritos: Favorito[] = []
-fav!: Favorito
+  fav!: Favorito
   msgs: Message[] = [];
-
+  gamesLength!: number;
 
   val3: number = 0
 
@@ -68,7 +68,8 @@ fav!: Favorito
 
   getFavs(): void {
     this.favoriteService.getFav().subscribe((fav) => {
-      this.favoritos = fav; console.log(fav);
+      this.favoritos = fav;
+      this.gamesLength = fav.length
       /* setTimeout(() => {
         this.animate.requestEnded();
       }, 7000)

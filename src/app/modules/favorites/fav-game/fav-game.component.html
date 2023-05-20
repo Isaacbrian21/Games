@@ -1,25 +1,37 @@
-
 <!-- Toas and Dialog -->
 <p-toast></p-toast>
 <p-confirmDialog [style]="{width: '50vw'}" [baseZIndex]="10000"></p-confirmDialog>
 
 <main class="component">
 
+  <header class="header-game">
+    <div class="header-game__text">
+      <h1>Meus favoritos</h1>
+      <h3>Jogos de todos os estilos e clássicos Playstation</h3>
+    </div>
+
+  </header>
+
+  <div class="contador">
+    <h3> {{ gamesLength }} jogos. </h3>
+  </div>
+
+
   <section class="favorite-section">
 
     <!-- All values -->
-  <div class="favorite-section__card" *ngFor="let favorito of favoritos">
-    <div class="favorite-section__card__img_plat">
-      <img src="{{ favorito.url }}" alt="" />
-      <h6 class="favorite-section__card__img_plat__overlay-text">{{ favorito.plataforma }}</h6>
+    <div class="favorite-section__card" *ngFor="let favorito of favoritos">
+      <div class="favorite-section__card__img_plat">
+        <img src="{{ favorito.url }}" alt="" />
+        <h6 class="favorite-section__card__img_plat__overlay-text">{{ favorito.plataforma }}</h6>
+      </div>
+      <div class="favorite-section__card__name">
+        <p-rating [ngModel]="favorito.val3" [readonly]="true" [stars]="5" [cancel]="false"></p-rating>
+        <h3>{{ favorito.name }}</h3>
+      </div>
+      <button pButton pRipple class="btn" type="button" class="p-button-raised p-button-danger"
+        (click)="confirm2(favorito)">Remover dos
+        favoritos</button>
     </div>
-    <div class="favorite-section__card__name">
-      <p-rating [ngModel]="favorito.val3" [readonly]="true" [stars]="5" [cancel]="false"></p-rating>
-      <h3>{{ favorito.name }}</h3>
-    </div>
-    <button pButton pRipple class="btn" type="button" class="p-button-raised p-button-danger"
-      (click)="confirm2(favorito)">Remover dos
-      favoritos</button>
-  </div>
-</section>
+  </section>
 </main>

@@ -7,10 +7,14 @@
       <h3>Jogos de todos os estilos e clássicos Playstation</h3>
     </div>
     <div class="header-game__btn">
-      <button class="butt"
-      routerLink="/newg">Adcionar</button>
+      <button class="butt" routerLink="/newg">Adcionar</button>
     </div>
   </header>
+
+  <div class="contador">
+    <h3> {{ gamesLength }} jogos. </h3>
+  </div>
+
   <!-- All values -->
   <section class="game-section">
     <div class="game-section__card" *ngFor="let game of games">
@@ -25,17 +29,17 @@
 
       <div class="game-section__card__buttons">
 
-        <button  pButton pRipple type="button" class="p-button-raised p-button-danger" *ngIf="game"
-        (click)="addFavorito(game)"> <i class="pi pi-heart"></i></button>
+        <button pButton pRipple type="button" class="p-button-raised p-button-danger" *ngIf="game"
+          (click)="addFavorito(game)"> <i class="pi pi-heart"></i></button>
 
-        <button  pButton pRipple type="button" (click)="onEdit(game)" class="p-button-raised p-button-warning">
+        <button pButton pRipple type="button" (click)="onEdit(game)" class="p-button-raised p-button-warning">
           <i class="pi pi-pencil"></i></button>
 
-          <button  pButton pRipple type="button" routerLink="/games/details/{{game.id}}"
+        <button pButton pRipple type="button" routerLink="/games/details/{{game.id}}"
           class="p-button-raised p-button-primary"> <i class="pi pi-info-circle"></i></button>
-        </div>
-
       </div>
+
+    </div>
   </section>
 
 

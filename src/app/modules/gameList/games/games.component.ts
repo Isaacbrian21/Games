@@ -25,7 +25,7 @@ export class GamesComponent implements OnInit {
   gameId!: number
   dialog!: boolean
   form!: FormGroup
-
+  gamesLength!: number;
   gameList!: Games;
 
 
@@ -52,7 +52,7 @@ export class GamesComponent implements OnInit {
   getGames(): void {
     this.gamesService.getAll().subscribe((games) => {
       this.games = games;
-      console.log(games);
+      this.gamesLength = games.length
       /* setTimeout(() => {
         this.animate.requestEnded();
       }, 7000)

@@ -56,7 +56,8 @@
       padding: 1em;
       color: white;
     }
-    .butt:hover{
+
+    .butt:hover {
       background-color: #00447c;
       cursor: pointer;
     }
@@ -64,8 +65,18 @@
   }
 }
 
+.contador {
+  background: rgb(233, 233, 233);
+  color: black;
+
+  h3 {
+    font-weight: lighter;
+  }
+
+}
+
 .game-section {
-  background: white;
+  background: rgb(233, 233, 233);
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -83,7 +94,7 @@
     align-items: center;
     text-align: center;
     width: 15em;
-    background: white;
+    background: transparent;
     border-radius: 1em;
     justify-content: space-around;
     color: black;

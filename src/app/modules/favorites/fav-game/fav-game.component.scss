@@ -3,13 +3,77 @@
   display: flex;
   justify-content: center;
   width: 100%;
+  background-image: url(https://image.api.playstation.com/vulcan/img/rnd/202010/1520/CMyTUxgeMmcaJFJvnYltXzG7.jpg?w=5000&thumb=false);
+  background-repeat: no-repeat;
+  background-size: contain;
+  flex-direction: column;
+  padding: 0;
+  border: 0;
+}
+
+.header-game {
+  margin-top: 30em;
+  width: 100%;
+  z-index: 1;
+  background: rgb(0, 0, 0);
+  height: 10em;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), 0 3px 9px rgba(0, 0, 0, 0.22);
+  display: flex;
+  justify-content: space-around;
+
+  &__text {
+    padding-top: 2em;
+
+    h1 {
+
+      font-weight: lighter;
+      padding-bottom: 2em;
+    }
+
+    h3 {
+      font-weight: lighter;
+    }
+
+  }
+
+  &__btn {
+    padding-top: 3em;
+
+    .butt {
+      background-color: #0070cc;
+      font-weight: bold;
+      border-radius: 2em;
+      padding: 1em;
+      color: white;
+    }
+
+    .butt:hover {
+      background-color: #00447c;
+      cursor: pointer;
+    }
+
+  }
+}
+
+.contador {
+  background: rgb(233, 233, 233);
+  color: black;
+
+  h3 {
+    font-weight: lighter;
+  }
+
 }
 
 .favorite-section {
+  background: rgb(233, 233, 233);
   width: 100%;
   display: flex;
   justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
+  flex-direction: row;
 
   &__card {
     position: relative;
@@ -88,7 +152,7 @@ button {
 
 
 
-   /*  &__btn {
+/*  &__btn {
       margin-top: 3em;
       background-color: #d63d00;
       height: 2em;
