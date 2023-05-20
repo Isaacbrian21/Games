@@ -1,68 +1,48 @@
-.banner{
-    padding: 200px 100px 100px;
-    min-height: 100vh;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
- }
- .banner .content{
-    max-width: 700px;
- }
- h3{
-    background-color: rgb(0, 0, 0);
- }
- .banner .content h2{
-    font-size: 2.5em;
-    color: #fff;
- }
-
-.banner .content a {
-    display: inline-block;
-    background: #fff;
-    color: #434978;
-    padding: 9px 20px;
-    text-decoration: none;
-    font-weight: 600;
-    margin-top: 20px;
-}
-
-.banner .image {
-    max-width: 500px;
-    margin-left: 50px;
-}
-@media (max-width: 991px){
-    header{
-   padding: 10px 20px;
-   flex-direction: column;  
-}
-    .banner{
-        margin-top: 30px;
-        padding: 105px 20px 50px;
-        flex-direction: column-reverse;
-}
-.banner .image{
-    margin-left: 0;
-    max-width: 80%;
-    margin-top: 30px;
-}
-
-.banner .content h2 {
-font-size: 2em;
-color: #fff;
+.component {
+  padding: 200px 100px 100px;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  min-width: 100%;
+  background-image: url(../../../../assets/home-kratos.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-direction: column;
+  padding: 0;
+  border: 0;
 
 }
-}
 
+.header-game {
+  margin-top: 30em;
+  width: 100%;
+  z-index: 1;
+  background: white;
+  height: 40vh;
+  color: black;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), 0 3px 9px rgba(0, 0, 0, 0.22);
+  display: flex;
+  justify-content: space-around;
 
-@media (max-width: 600px){
+  &__text {
+    padding-top: 2em;
+    width: 50%;
+    text-align: left;
 
-header .search {
-    width: 100%;
-  
-}
+    h1 {
 
-.banner .image{
-    margin-top: 30px;
+      font-weight: lighter;
+      padding-bottom: 2em;
+    }
+
+    h3 {
+      font-weight: lighter;
+    }
+
+  }
+.home-section{
+  display: flex;
+  background: rgb(226, 226, 226);
 }
 
 }
