@@ -12,7 +12,8 @@ import { GamesService } from 'src/app/core/service/games.service';
 export class GameDetailsComponent implements OnInit {
 
 game!: Games;
-  
+image!: string
+
 constructor(
     private  route: ActivatedRoute,
     private gamesService: GamesService,

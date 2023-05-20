@@ -3,9 +3,13 @@ import { RouterModule, Routes } from '@angular/router';
 import { AddgameComponent } from "./addgame/addgame.component"
 
 const routes: Routes = [
-
   {
-    path: 'myApp/newgame',
+    path: '',
+    redirectTo: 'newg',
+    pathMatch: 'full'
+  },
+  {
+    path: 'newg',
     component: AddgameComponent
   }
 ]

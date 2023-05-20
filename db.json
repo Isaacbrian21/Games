@@ -1,272 +1,306 @@
 {
   "games": [
     {
-      "url": "https://m.media-amazon.com/images/I/61z7dwAXKpL._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2510/VOSSvGjCpMF0uj9qQtmW6AnH.png?w=440&thumb=false",
       "name": "NEED FOR SPEED PAYBACK",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2510/VPcR56CYKgWFbmxI8PtInnOl.png?w=5000&thumb=false",
       "descricao": "Need For Speed: Payback é um jogo de mundo aberto de corrida desenvolvido pela Ghost Games e publicado pela Electronic Arts para Microsoft Windows, PlayStation 4 e Xbox One. É o vigésimo-terceiro título da série Need for Speed. O jogo foi revelado por um trailer lançado em 2 de junho de 2017, e lançado mundialmente em 10 de novembro de 2017.",
       "plataforma": "PS5",
       "val3": 3,
       "id": 25
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71Te8PL3rqL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1019/hMkDp3eo0OSpdqe4rZj6EYJK.png?w=440&thumb=false",
       "name": "GRAN TURISMO SPORT",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/s4OPcy23WwDCq1J4DAB6lS8g.png?w=5000&thumb=false",
       "descricao": "Gran Turismo Sport (グランツーリスモSPORT Guran Tsūrisumo Supōtsu?) é um jogo eletrônico simulador de corrida desenvolvido pela Polyphony Digital e publicado pela Sony Interactive Entertainment. É o sétimo título principal da série Gran Turismo e foi lançado exclusivamente para PlayStation 4 em outubro de 2017.[",
       "plataforma": "PS4",
       "val3": 1,
       "id": 26
     },
     {
-      "url": "https://m.media-amazon.com/images/I/61OZeW+pPYL._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png?w=440&thumb=false",
       "name": "THE LAST OF US PART II",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/UIRjzDjQKrOD4kx6ubmlOsrA.png?w=5000&thumb=false,%20https://image.api.playstation.com/vulcan/img/rnd/202010/2618/UIRjzDjQKrOD4kx6ubmlOsrA.png?w=5000&thumb=false%201.5x,%20https://image.api.playstation.com/vulcan/img/rnd/202010/2618/UIRjzDjQKrOD4kx6ubmlOsrA.png?w=5000&thumb=false%202x",
       "descricao": "The Last of Us Part II é um jogo eletrônico de ação-aventura desenvolvido pela Naughty Dog e publicado pela Sony Interactive Entertainment. É o segundo jogo da franquia e foi lançado em 19 de junho de 2020 exclusivamente para PlayStation 4. Ambientado cinco anos após os eventos de The Last of Us (2013), o jogador assume o papel de duas protagonistas em um Estados Unidos pós-apocalíptico: Ellie, que busca por vingança após um evento traumático, e Abby, uma soldada que se envolve em um conflito entre uma milícia e um culto. O jogo contém elementos de survival horror e é jogado numa perspectiva de terceira pessoa. Os jogadores podem usar armas de fogo, arcos, armas improvisadas, esquiva e furtividade para se defenderem de seres humanos hostis e criaturas infectadas por uma mutação do fungo Cordyceps.\n\nSeu desenvolvimento durou seis anos, pouco depois do lançamento de Remastered (2014). O jogo foi oficialmente revelado durante o evento PlayStation Experience em dezembro de 2016. Neil Druckmann retornou como diretor criativo e escritor, juntamente com Halley Gross. A temática do jogo, que aborda sobre vingança e retribuição, foram inspirados nas experiências de Druckmann crescendo em Israel. Ashley Johnson e Troy Baker repetem seus papéis como Ellie e Joel, respectivamente, enquanto Laura Bailey foi escalada como Abby. Suas performances incluíram a captura simultânea de movimento e voz. Os desenvolvedores impulsionaram os recursos técnicos do PlayStation 4 durante o desenvolvimento. O músico Gustavo Santaolalla voltou a compor e executar a partitura. O desenvolvimento supostamente incluiu uma agenda de 12 horas de jornada de trabalho, recebendo alguns adiamentos em decorrência também da pandemia de COVID-19.\n\nPart II recebeu críticas positivas pelos avaliadores. Os elogios foram direcionados à jogabilidade aprimorada em relação ao seu antecessor, fidelidade visual e performances do elenco, enquanto seu enredo e as apresentações de seus temas através da violência receberam opiniões divididas da crítica e do público. O título é um dos jogos mais vendidos do PlayStation 4 e o exclusivo desta plataforma mais rapidamente vendido, com mais de quatro milhões de unidades comercializadas em seus primeiros três dias de lançamento e mais de dez milhões até 2022. Part II recebeu múltiplos prêmios e indicações, incluindo muitos de Jogo do Ano.",
       "plataforma": "PS4",
       "val3": 4,
       "id": 27
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71K+S54OckL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2318/2cJRHg2UOwbvp10QxGrbX62S.png?w=440&thumb=false",
       "name": "UNTIL DOWN",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/OluGSoGnGcYHOQZ6AHExppNq.png?w=5000&thumb=false",
       "descricao": "Until Dawn é um jogo eletrônico de aventura e de survival horror desenvolvido pela Supermassive Games e publicado pela Sony Computer Entertainment para a PlayStation 4 em Agosto de 2015.[1][2] Originalmente planejado para a PlayStation 3 com suporte para PlayStation Move, o jogo acabou por ser reintroduzido como um exclusivo para PlayStation 4 em agosto de 2014.[3]\n\nUntil Dawn recebeu análises positivas por parte dos críticos da especialidade. Conseguiu uma pontuação agregada de 79,07% no GameRankings[4] e 79/100 no Metacritic.",
       "plataforma": "PS4",
       "val3": 3,
       "id": 29
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81h0oxLQQPL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png?w=440&thumb=false",
       "name": "GOD OF WAR",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/KAmUQWQ5V9QF3XDzmty1VkKj.png?w=5000&thumb=false",
       "descricao": "God of War[b] é um jogo eletrônico de ação-aventura desenvolvido pela Santa Monica Studio e publicado pela Sony Interactive Entertainment (SIE). Foi lançado em 20 de abril de 2018 para PlayStation 4 e em 14 de janeiro de 2022 para Microsoft Windows. É o oitavo título da série God of War e também o oitavo em ordem cronológica, sendo sequência dos eventos ocorridos em God of War III (2010). Ao contrário dos jogos anteriores, que eram vagamente baseados na mitologia grega, este título é vagamente baseado na mitologia nórdica, com a maior parte do tempo situado na antiga Noruega no reino de Midgard. Pela primeira vez na série, há dois protagonistas principais: Kratos, o antigo deus da guerra grego que é acompanhado por seu jovem filho Atreus. Após a morte da segunda esposa de Kratos e mãe de Atreus, eles viajam para cumprir sua promessa de espalhar suas cinzas no pico mais alto dos nove reinos. Kratos mantém seu passado conturbado em segredo de Atreus, que não tem consciência de sua natureza divina. Ao longo da jornada, eles encontram monstros e deuses do mundo nórdico.\n\nDescrita pelo diretor criativo Cory Barlog como uma reimaginação para a franquia, a jogabilidade foi completamente reconstruída, com uma grande mudança sendo que Kratos não usa mais suas lâminas duplas como armas principais; ao invés disso, ele usa um machado de guerra mágico chamado Machado Leviatã. Outra mudança notável é a câmera; o jogo usa um sistema de câmera livre sobre o ombro em oposição à câmera fixa vista nos títulos anteriores. Além disso, o jogo não contém cortes de câmera e é apresentado em plano-sequência, sendo o primeiro jogo triple A tridimensional da história à apresentar uma cinematografia em plano-sequência. Há também elementos semelhantes aos jogos de RPG e o filho de Kratos, Atreus, pode fornecer assistência durante o jogo. A maioria da equipe de desenvolvimento do primeiro jogo da série trabalhou em God of War e o projetou para ser melhor acessível. Um pequeno jogo baseado em texto, A Call from the Wilds, foi lançado em 1 de fevereiro de 2018 através do Facebook Messenger, e segue Atreus em sua primeira aventura.\n\nGod of War foi aclamado pela crítica especializada, recebendo elogios por sua narrativa, projeção do mundo, direção de arte, trilha sonora, gráficos, personagens, sistema de combate e sentimento cinematográfico. Muitos revisores acharam que ele havia revitalizado com sucesso a série sem perder a identidade central dos jogos anteriores. Foi bem-sucedido comercialmente, vendendo mais de 23 milhões de unidades até novembro de 2022 e tornando-se um dos jogos mais vendidos do PlayStation 4 e o mais vendido da franquia. Considerado por múltiplas publicações como um dos melhores jogos eletrônicos de todos os tempos, God of War também recebeu diversos prêmios, incluindo muitos de Jogo do Ano. Uma romantização do jogo foi lançada em agosto de 2018, seguida por uma série prequela de quadrinhos de quatro edições que foi publicada entre novembro de 2018 e fevereiro de 2019. Uma sequência, God of War Ragnarök, foi lançada em novembro de 2022 para PlayStation 4 e PlayStation 5.",
       "plataforma": "PS4",
       "val3": 4,
       "id": 31
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81BGwCmZmiL._AC_SL1500_.jpg",
-      "name": "RESIDENT EVIL 7 - BIOHAZARD",
+      "url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0207/V6IViuKogBMRtajqjnYrcj0e.png?w=440&thumb=false",
+      "name": "RESIDENT EVIL 7 - biohazard",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0311/OKlhgrr8OazNMlGQWhkMkfrb.png?w=5000&thumb=false",
       "descricao": "Resident Evil 7: Biohazard,[a] conhecido no Japão como Biohazard 7: Resident Evil (バイオハザード7　レジデント イービル Baiohazādo 7 Rejidento Ībiru?)[b] é um jogo eletrônico do gênero survival horror produzido pela Capcom e lançado em 24 de janeiro de 2017 para Microsoft Windows, PlayStation 4 e Xbox One, com a versão de PlayStation 4 tendo suporte completo para PlayStation VR.[1] Um versão em nuvem foi lançada no Japão para o Nintendo Switch em 2018 e o lançamento global está programado para dezembro de 2022. Uma versão aprimorada para o PlayStation 5 e Xbox Series X e S foi lançada em junho de 2022.[2] O jogo é o décimo título principal da série Resident Evil, é importante destacar que o jogo: Resident Evil Survivor foi o primeiro Resident Evil que utilizou a perspectiva em primeira pessoa, no entanto, se trata de um spin-off da série, portanto, Resident Evil 7 foi o primeiro Resident Evil da série principal que usou a perspectiva em primeira pessoa.[3]\n\nA história segue a busca do civil Ethan Winters por sua esposa Mia, que o leva a uma mansão agrícola aparentemente abandonada e habitada pela família Baker. Ethan faz uso de armas e ferramentas na luta contra os membros da família e os \"Mofados\", uma forma humanoide de bactéria. Itens de cura são usados em caso de lesão e há enigmas que precisam ser resolvidos para dar prosseguimento a história.\n\nResident Evil 7 foi anunciado durante a E3 2016 depois de vários rumores.[4] Mais tarde naquele dia, uma demonstração intitulada Resident Evil 7 Teaser: Beginning Hour foi lançada na PlayStation Store para os assinantes da PlayStation Plus. Liderado por Koshi Nakanishi, diretor de Resident Evil: Revelations, a equipe de desenvolvimento foi composta por cerca de 120 pessoas. Em vez de ser centrado na ação como seus antecessores Resident Evil 5 e 6, os elementos de survival horror e a exploração tiveram prioridade no novo título. Para isso, o jogo utiliza uma perspectiva em primeira pessoa. Eles usaram o novo motor gráfico RE Engine, que já tinha sido testado na demonstração em realidade virtual KITCHEN na E3 de 2015.[5]\n\nApós o lançamento, o jogo recebeu avaliações geralmente favoráveis dos críticos, que elogiaram a jogabilidade, os gráficos e o design. A versão para PlayStation VR foi enaltecida por aumentar o envolvimento do jogador, mas também foi alvo de reclamações por ter a resolução diminuída e causar desconforto físico. Outras queixas foram dirigidas às batalhas contra chefes e ao capítulo final da história. Até o final de março de 2017, o jogo tinha vendido mais de três milhões e meio de cópias, sendo a terceira melhor estreia de um título da série. Dois conteúdos adicionais, intitulados Not a Hero e End of Zoe, também foram posteriormente lançados no jogo. Uma sequência, intitulada Resident Evil Village foi anunciada para 2021.",
       "plataforma": "PS4",
       "val3": 4,
       "id": 32
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81WovZI3rlL._AC_SL1500_.jpg",
-      "name": "RESIDENT EVIL 8 - VILLAGE",
+      "url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0706/GUhDp6BVY1CREF9HFT0fiOec.png?w=440&thumb=false",
+      "name": "RESIDENT EVIL 8 - Village",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0706/nByF0tIdHr6jeiK7fE5epEHR.png?w=5000&thumb=false",
       "descricao": "Resident Evil: Village,[nota 1][nota 2] conhecido no Japão como Biohazard: Village (バイオハザード ヴィレッジ Baiohazādo Virejji?) é um jogo eletrônico de survival horror desenvolvido e publicado pela Capcom. É a sequência de Resident Evil 7: Biohazard, de 2017, e foi anunciado pela primeira vez no evento de revelação do PlayStation 5 em 11 de junho de 2020.[3][4][5] Foi lançado em 7 de maio de 2021 para Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One e Xbox Series X/S.[6] Até outubro de 2021, o jogo vendeu mais de cinco milhões de cópias em todo o mundo.",
       "plataforma": "PS4",
       "val3": 4,
       "id": 33
     },
     {
-      "url": "https://m.media-amazon.com/images/I/61F8Iyxqf6L._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1423/4TUiZtcn1CIaG9ejhhJexjmj.png?w=440&thumb=false",
       "name": "Spider-Man - Miles Morales",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png?w=5000&thumb=false",
       "descricao": "Spider-Man: Miles Morales é um jogo eletrônico de ação-aventura desenvolvido pela Insomniac Games e publicado pela Sony Interactive Entertainment para o PlayStation 4 e PlayStation 5. É baseado nos personagens, mitologia e adaptações em outras mídias dos personagens de histórias em quadrinhos Miles Morales e Homem-Aranha da Marvel Comics, tendo sido lançado para PlayStation 4 e como um título de lançamento do PlayStation 5 em novembro de 2020.[1][2][3]\n\nO jogo é a uma expansão autônoma de Spider-Man,[4] de 2018. E retrata a luta de Miles para equilibrar os deveres de sua personalidade civil e do Homem-Aranha quando sua nova casa, Harlem, está ameaçada por uma guerra entre a Roxxon Energy Corporation e o exército criminoso de alta tecnologia do Tinkerer, o Underground.\n\nA jogabilidade é apresentada a partir da perspectiva em terceira pessoa com um foco principal nas habilidades de travessia e combate de Miles. Miles pode se mover livremente pela cidade de Nova York, interagindo com personagens, realizando missões e desbloqueando novos aparelhos e trajes, progredindo através da história principal ou completando tarefas. Fora da história, o jogador é capaz de completar missões secundárias para desbloquear conteúdo adicional e itens colecionáveis. O combate se concentra em encadear ataques e usar o ambiente e as teias para incapacitar inúmeros inimigos, evitando danos.\n\nAnunciado pela primeira vez no evento de revelação do PlayStation 5 em junho de 2020, o jogo foi lançado como um título de lançamento para o novo console em 12 de novembro de 2020, na América do Norte e Austrália, e em 19 de novembro em todo o mundo. Uma versão do PlayStation 4 foi lançada no mesmo dia, sem alguns dos recursos avançados de sua contraparte de última geração, como ray-tracing ou um modo de desempenho de 60 FPS, devido às limitações técnicas do console. Uma versão remasterizada de Spider-Man para o PlayStation 5 está incluída na \"Ultimate Edition\" de Miles Morales.[5] O jogo recebeu elogios por seu combate, narrativa, conteúdo e melhorias técnicas da versão PS5. A partir de julho de 2021, o jogo já vendeu mais de 6,5 milhões de cópias.",
       "plataforma": "PS4",
       "val3": 4,
       "id": 34
     },
     {
-      "url": "https://m.media-amazon.com/images/I/815TEngwF7L._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png?w=440&thumb=false",
       "name": "Spider-Man",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/Cu9fyu6DM41JPekXLf1neF9r.png?w=5000&thumb=false",
       "descricao": "Spider-Man (Marvel's Spider-Man nos Estados Unidos) é um jogo eletrônico de ação-aventura desenvolvido pela Insomniac Games e publicado pela Sony Interactive Entertainment. É baseado nos personagens, mitologia e adaptações em outras mídias do super-herói de histórias em quadrinhos Homem-Aranha da Marvel Comics, tendo sido lançado exclusivamente para PlayStation 4 em 7 de setembro de 2018. Na história, o criminoso super-humano Senhor Negativo organiza um plano para se vingar do prefeito Norman Osborn e assumir o controle do submundo criminal de Nova Iorque. O Homem-Aranha precisa proteger a cidade assim que o Senhor Negativo ameaça lançar um vírus mortal por toda a área, ao mesmo tempo que é forçado a lidar com seus problemas pessoais como Peter Parker.\n\nA jogabilidade é apresentada a partir de uma perspectiva em terceira pessoa, com o foco principal ficando na movimentação e habilidades de combate do Homem-Aranha. O personagem pode navegar livremente por Nova Iorque usando suas teias, também podendo interagir com personagens não jogáveis, assumir e completar missões e desbloquear novos dispositivos e trajes ao progredir pela história principal ou através da realização de diferentes tarefas. O jogador também pode participar de missões paralelas opcionais com o objetivo de conseguir conteúdos extras e itens colecionáveis variados. O combate envolve conectar diversos ataques e usar o ambiente e teias a fim de incapacitar o maior número possível de oponentes.\n\nO desenvolvimento de Spider-Man começou em 2014 e demorou aproximadamente quatro anos, tendo sido a primeira vez na história da Insomniac que a empresa produziu um título licenciado de outra propriedade intelectual. O estúdio recebeu permissão da Marvel para usar qualquer personagem de seu catálogo, com o Homem-Aranha tendo sido o escolhido por ser popular entre a equipe e pelas similaridades da jogabilidade de navegação com seu trabalho anterior em Sunset Overdrive. O projeto de jogo tirou inspiração da história do personagem em diversas mídias, porém a Insomniac e a Marvel queriam contar uma história original não relacionada a uma obra já existente. O universo depois apareceu em romances e histórias em quadrinhos.\n\nO jogo foi um enorme sucesso comercial e de crítica ao ser lançado. Foi muito elogiado por sua narrativa, ambientação, combate e mecânicas de navegação, porém recebeu críticas sobre um projeto de mundo aberto que carecia de originalidade. Vários críticos chamaram Spider-Man de o melhor jogo eletrônico de super-herói já feito, comparando-o favoravelmente com a série Batman: Arkham. Ele foi um dos títulos de maior sucesso do ano, tornando-se um dos jogos de PlayStation 4 mais vendidos de todos os tempos. O enredo principal foi sucedido por um conteúdo para download episódio chamado de Spider-Man: The City that Never Sleeps. Uma expansão autônoma, intitulada Spider-Man: Miles Morales, foi lançada em 12 de novembro de 2020, enquanto que uma sequência, Spider-Man 2, está programada para ser lançada para PlayStation 5 em 2023",
       "plataforma": "PS4",
       "val3": 4,
       "id": 35
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71uZTUnIg-L._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1206/dREhjM5ezzlBvWjMXKGmX0UW.png?w=440&thumb=false",
       "name": "Days Gone",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1206/P9TMpFus7UKCHO9hDIUMH4KY.jpg?w=5000&thumb=false",
       "descricao": "Days Gone é um jogo eletrônico de ação-aventura e sobrevivência desenvolvido pela Bend Studio e publicado pela Sony Interactive Entertainment. O jogo se passa no Oregon pós-apocalíptico, dois anos após o início de uma pandemia. O ex-fora-da-lei que se tornou um vagabundo, o diácono St. John, descobre que sua esposa Sarah ainda poderia estar viva, saindo em sua busca. Days Gone é jogado de uma perspectiva de terceira pessoa em que o jogador pode explorar um ambiente de mundo aberto. Os jogadores podem usar armas de fogo, armas brancas e armas improvisadas, e podem usar furtividade para se defender contra humanos hostis e criaturas canibais conhecidas como freakers. A principal mecânica do jogo é a motocicleta de Deacon, que é usada como o principal meio de transporte e inventário móvel do personagem do jogador.\n\nO jogo foi o primeiro projeto de mundo aberto da Bend Studio, sua primeira propriedade original desde a série Siphon Filter (1999) e seu primeiro projeto de desenvolvimento para consoles domésticos depois de passar décadas trabalhando em jogos derivados para consoles portáteis. O desenvolvimento do jogo levou aproximadamente seis anos; a desenvolvedora se expandiu quase três vezes para suportá-lo. As principais fontes de inspiração para Days Gone foram World War Z (2013), The Walking Dead (2010–presente) e Sons of Anarchy (2008–14). O jogo foi apresentado oficialmente na E3 2016; seu lançamento foi originalmente planejado para 2018, mas foi adiado várias vezes.\n\nO jogo foi lançado em abril de 2019 para PlayStation 4 e em maio de 2021 para Windows. Após o lançamento, recebeu críticas mistas dos críticos, que elogiaram os gráficos, a inteligência artificial dos inimigos e a performance de Sam Witwer como diácono, mas criticaram a história, o design da missão e várias questões técnicas. Foi frequentemente considerado como um dos jogos originais da Sony mais fracos lançados durante a geração do PlayStation 4. Days Gone foi um sucesso comercial; vendeu mais cópias do que todos os jogos anteriores do Bend Studio combinados e se tornou o 19.º jogo mais vendido de 2019 nos Estados Unidos. Em 2021, foi relatado que a equipe de desenvolvimento havia lançado, sem sucesso, uma sequência para a Sony.",
       "plataforma": "PS4",
       "val3": 4,
       "id": 36
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71XrxGqPosL._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png?w=440&thumb=false",
       "name": "Red Dead - Rendemption 2",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1215/WyHa1BM3ISDVqYSEUMB9VZJs.png?w=5000&thumb=false",
       "descricao": "Red Dead Redemption 2 é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Rockstar Games. É o terceiro título da série Red Dead e uma prequela de Red Dead Redemption, tendo sido lançado em outubro de 2018 para PlayStation 4 e Xbox One e em novembro de 2019 para Microsoft Windows e Google Stadia. A história se passa em 1899 em uma representação ficcional do oeste, meio-oeste e sul dos Estados Unidos e acompanha o fora da lei Arthur Morgan, que precisa lidar com o declínio do Velho Oeste e sobreviver à perseguição de forças governamentais, gangues rivais e outros adversários.\n\nA jogabilidade é apresentada tanto em uma perspectiva em primeira quanto em terceira pessoa, com o jogador sendo livre para explorar e interagir com o mundo aberto. Elementos de jogabilidade incluem tiroteios, assaltos, caça, cavalgadas, interação com personagens não jogáveis e gerenciamento da honra do protagonista por meio de escolhas morais e atos. Um sistema de recompensa similar àquele presente na série Grand Theft Auto governa as respostas da polícia e caçadores de recompensa aos crimes cometidos pelo jogador. Um modo multijogador chamado de Red Dead Online estreou em novembro de 2018.\n\nO desenvolvimento do título começou logo depois do lançamento de Red Dead Redemption em 2010 e foi compartilhado entre todas desenvolvedoras da Rockstar Games ao redor do mundo. A equipe se inspirou em locais reais, focando-se na criação de uma reflexão fiel do período temporal por meio dos personagens e do mundo de jogo. Red Dead Redemption 2 foi o primeiro jogo da Rockstar Games desenvolvido especificamente para os consoles da oitava geração. A trilha sonora original inclui músicas orquestrais compostas por Woody Jackson e várias faixas vocais produzidas por Daniel Lanois.\n\nRed Dead Redemption 2 foi amplamente antecipado pré-estreia, tendo batido vários recordes e tornado-se o segundo maior lançamento da indústria do entretenimento. Ele arrecadou mais de 725 milhões de dólares em seu fim de semana de estreia e superou as vendas totais do primeiro Red Dead Redemption em apenas duas semanas, já tendo vendido mundialmente mais de 44 milhões de cópias.[1] Ele foi aclamado pela crítica especializada, com elogios direcionados para sua história, personagens, mundo aberto e nível de detalhes. Considerado por múltiplas publicações como um dos melhores jogos eletrônicos de todos os tempos, Red Dead Redemption 2 também venceu diversos prêmios de final de ano, incluindo alguns de Jogo do Ano.",
       "plataforma": "PS4",
       "val3": 5,
       "id": 37
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71+15NSh+NL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2813/h9Xc7ZhCEGUcS05YvpEcNT0D.png?w=440&thumb=false",
       "name": "Uncharted V Lost legacy",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2813/yUl2CGtMY06vuSD7n4PQjQkI.png?w=5000&thumb=false",
       "descricao": "Uncharted: The Lost Legacy é um jogo eletrônico de ação-aventura desenvolvido pela Naughty Dog e publicado pela Sony Interactive Entertainment. É um título derivado da série Uncharted e uma expansão autônoma de Uncharted 4: A Thief's End, tendo sido lançado exclusivamente para PlayStation 4 em agosto de 2017. Na história, os jogadores controlam Chloe Frazer, uma caçadora de tesouros que parte à procura da lendária Presa de Ganexa nas montanhas da Índia no meio de uma guerra civil com a ajuda da ex-mercenária Nadine Ross. The Lost Legacy é jogado a partir de uma perspectiva em terceira pessoa e incorpora diversos elementos de plataforma e controle de veículos na navegação pelos diferentes ambientes. Os jogadores usam armas de fogo, combate corpo a corpo e furtividade a fim de combaterem inimigos e solucionarem quebra-cabeças.\n\nO desenvolvimento de The Lost Legacy começou em 2016, logo depois da finalização de A Thief's End, inicialmente como um conteúdo para download para o jogo original. A equipe explorou diversas possibilidades de história, escolhendo por criar uma experiência mais condensada que pudesse ser criada e lançada em pouco tempo. Vários possíveis protagonistas foram contemplados até Chloe e Nadine serem escolhidas. A história de The Lost Legacy se foca em uma região geográfica específica e suas particularidades de filosofia e cultura, diferentemente de títulos anteriores que focaram-se em figuras história, pois os desenvolvedores tiveram menos tempo para realizarem pesquisas. A equipe da Naughty Dog conseguiu aprimorar seus processos de produção com o objetivo de permitir a criação de áreas de exploração maiores do que em jogos anteriores.\n\nThe Lost Legacy foi anunciado oficialmente em dezembro de 2016 na PlayStation Experience. O título foi bem recebido pela crítica especializada, com elogios sendo direcionados particularmente para seu projeto de jogo, caracterização de personagens, boas interações entre Chloe e Nadine e o roteiro em geral, com as principais críticas se focando em sua grande similaridade com a jogabilidade A Thief's End e pouca inovação em relação a seus predecessores. Críticos também consideraram que o jogo era uma prova que a franquia Uncharted poderia continuar sem a presença de Nathan Drake, o protagonista de todos os títulos anteriores. Teve um bom desempenho comercial, vendendo ao todo mais duas milhões de unidades mundialmente. The Lost Legacy também venceu e foi indicado a diversos prêmios, além de ter aparecido em várias listas de melhores jogos do ano.",
       "plataforma": "PS4",
       "val3": 3,
       "id": 38
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81-QbSEKMcL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/cdn/UP1018/CUSA03372_00/i2vnaJByfIIUxKO3df1E8vssn3N1Z0JL.png?w=440&thumb=false",
       "name": "Lego Star Wars",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png?w=5000&thumb=false",
       "descricao": "Lego Star Wars é um brinquedo temático da The Lego Group sobre a série cinematográfica Star Wars, produzido sob licença do estúdio Lucasfilm. Os primeiros conjuntos chegaram às lojas em 1999, paralelamente ao lançamento, nos cinemas, do filme Star Wars: Episódio I: A ameaça fantasma.\n\nAlém de se constituir no primeiro tema licenciado da LEGO, considera-se mantido o mais popular e rentável até hoje.\n\nDesde 1999 vem sendo lançados conjuntos referentes a veículos ou cenas de cada um dos seis filmes realizados. Um veículo, entretanto, o TIE Drone, no chamado Universo Expandido da série. Com o continuo sucesso, vários conjuntos foram modificados e relançados ao longo dos anos, o seriado animado Clone Wars também teve vários reproduções de seus veículos e naves.\n\nAlém dos conjuntos regulares desta linha, a LEGO editou vários \"Ultimate Collectors Sets\" e \"Minis\".",
       "plataforma": "PS4",
       "val3": 2,
       "id": 39
     },
     {
-      "url": "https://m.media-amazon.com/images/I/61sn867lHZL._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2001/9Vdas199J3tqxTIBWGijbpjW.png?w=440&thumb=false",
       "name": "Uncharted - Legado dos ladrões",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/aUGpwPrY0qZZ4CYGlLX3rtqr.png?w=5000&thumb=false",
       "descricao": "Legado dos ladrões",
       "plataforma": "PS5",
       "val3": 4,
       "id": 40
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81vPLT9c55L._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2319/XtqYrG2LWer39eExYBsh9J5x.png?w=440&thumb=false",
       "name": "Shadow of the Colossus",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/Nn4IUORGlwf1p6NSbBqINU8j.png?w=5000&thumb=false",
       "descricao": "Shadow of the Colossus, lançado no Japão como Wander and the Colossus (ワンダと巨像 Wanda to Kyozō?),[1] é um jogo eletrônico de ação-aventura desenvolvido pela SCE Japan Studio e publicado pela Sony Computer Entertainment para o PlayStation 2. O jogo foi lançado na América do Norte e no Japão em outubro de 2005 e em territórios PAL em fevereiro de 2006.[2] Ele foi dirigido por Fumito Ueda e desenvolvido pelo International Production Studio 1, também conhecida como Team Ico; o mesmo time de desenvolvimento de Ico.[3][4]\n\nO enredo do jogo se concentra em um jovem chamado Wander, que deve viajar por uma terra proibida com o objetivo de derrotar dezesseis criaturas, conhecidas simplesmente como \"Colossi\",[5] para restaurar a vida de uma garota chamada Mono. O jogo é incomum dentro do gênero de ação-aventura já que não existem cidades e calabouços para serem explorados. Não existe também nenhum personagem com quem interagir e nenhum inimigo além dos Colossos para derrotar.[6][7] Shadow of the Colossus foi descrito como um jogo de quebra-cabeças, já que a fraqueza de cada Colossus deve ser identificada e explorada para que ele seja derrotado.[8][9]\n\nShadow of the Colossus é considerado como um título influente na indústria de jogos eletrônicos e um exemplo de um jogo eletrônico como forma de arte devido sua paisagem minimalista, jogabilidade envolvente e jornada emocional. Ele foi aclamado pela crítica e alcançou bons números de vendas em comparação com Ico, em parte devido a uma campanha de divulgação maior. A sua trilha sonora também foi amplamente elogiada. O jogo ganhou variados prêmios pelo seu áudio, projeto e qualidade geral. Shadow of the Colossus é também referenciado inúmeras vezes em debates sobre a qualidade de arte e perspectivas emocionais dos jogos eletrônicos.[10] Hoje, é amplamente considerado como um dos melhores jogos eletrônicos de todos os tempos.\n\nUma versão remasterizada chamada The Ico & Shadow of the Colossus Collection desenvolvida pela Bluepoint Games, compilando ambos os jogos,[11] foi lançada para PlayStation 3 em setembro de 2011, apresentando gráficos de alta definição, conteúdos anteriormente ausentes na versão norte-americana, troféus na PlayStation Network e suporte 3D.[12] A versão remasterizada foi lançada separadamente no Japão. Um remake de Shadow of the Colossus foi lançado em fevereiro de 2018 como um exclusivo para o PlayStation 4.",
       "plataforma": "PS4",
       "val3": 3,
       "id": 42
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81TBqOBJatL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0711/p8JCvA8692BICXAPoyylh7ed.png?w=440&thumb=false",
       "name": "GOD OF WAR III",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2917/qKv4pRqoGFvnoUKyDSLg17ne.png?w=5000&thumb=false",
       "descricao": "God of War III é um jogo eletrônico de ação-aventura e hack and slash desenvolvido pela Santa Monica Studio e publicado pela Sony Computer Entertainment (SCE). Foi lançado em 16 de março de 2010 para PlayStation 3. O jogo é o quinto da série God of War e o sétimo em ordem cronológica, sendo a continuação direta de God of War II (2007). Vagamente baseado na mitologia grega, o jogo é ambientado na Grécia Antiga com a vingança sendo o tema central. O jogador controla o protagonista e ex-God of War Kratos, depois da traição nas mãos de seu pai Zeus, rei dos deuses do Olimpo. Reignificando a Grande Guerra, Kratos sobe ao Monte Olimpo até ser abandonado pela titã Gaia. Guiado pelo espírito de Atena, Kratos luta contra monstros, deuses e Titãs em uma busca por Pandora, sem a qual ele não pode abrir a Caixa de Pandora, derrotar Zeus e acabar com o reinado dos deuses do Olimpo.\n\nA jogabilidade é semelhante aos títulos anteriores, concentrando-se no combate baseado em combos com a arma principal do jogador — as Lâminas do Exílio — e armas secundárias adquiridas durante o jogo. O jogador usa quick time events, na qual age em uma sequência cronometrada para derrotar inimigos e chefes mais fortes. O jogador pode usar até quatro ataques mágicos e uma capacidade de aprimoramento dos poderes como opções de combate alternativas. O jogo também apresenta puzzles e elementos de plataforma. Em comparação com os títulos anteriores, God of War III oferece um sistema de magia renovada, mais inimigos na tela, novos ângulos de câmera e conteúdo para download.\n\nGod of War III foi aclamado pela crítica após o seu lançamento, com um revisor da IGN afirmando que redefine a palavra \"escala\" nos jogos eletrônicos.[1] Ele foi elogiado por seus gráficos, particularmente de Kratos, que a IGN chamou de \"talvez o personagem mais impressionante de todos os tempos nos videogames\".[1] O jogo recebeu vários prêmios, incluindo \"Jogo Mais Antecipado de 2010\" e \"Melhor Jogo de PS3\" na Spike Video Game Awards de 2009 e 2010, respectivamente e o prêmio \"Realização Artística\" na British Academy Games Awards de 2011 e pela British Academy of Film and Television Arts (BAFTA). É o segundo jogo mais vendido da série God of War e o nono jogo mais vendido da história do PlayStation 3, vendendo mais de 5,2 milhões de unidades em todo o mundo até junho de 2012. O jogo e seus antecessores foram incluídos em God of War Saga, lançado para PlayStation 3 em 28 de agosto de 2012. Em comemoração ao décimo aniversário da franquia God of War, uma versão remasterizada de God of War III, intitulada God of War III Remastered, foi lançada em 14 de julho de 2015 para PlayStation 4.",
       "plataforma": "PS4",
       "val3": 4,
       "id": 43
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81WlDakgCZL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202106/0722/ZD3S3PLtJd6dratIs7lc09mS.png?w=440&thumb=false",
       "name": "Far Cry 6 ",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1501/MBzbYgZ4F8HQXne1CU5tQB2y.jpg?w=5000&thumb=false",
       "descricao": "Far Cry 6 é um jogo eletrônico de tiro em primeira pessoa desenvolvido pela Ubisoft Toronto e publicado pela Ubisoft. É o sexto título principal da série Far Cry e foi lançado em 7 de outubro de 2021 para Amazon Luna, Google Stadia, Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One e Xbox Series X/S.[1]\n\nO jogo se passa em uma ilha fictícia do Caribe chamada \"Yara\", inspirada em Cuba, governada por uma ditadura do \"El Presidente\" Anton Castillo (dublado e modelado por Giancarlo Esposito), que está criando seu filho Diego (dublado por Anthony Gonzalez), para seguir seu governo. O jogador assume o papel de um guerrilheiro tentando recuperar a ilha para seu povo.\n\nFar Cry 6 foi bem recebido pela crítica, com muitos elogiando a jogabilidade, os visuais, o design do mundo e as performances, mas com algumas críticas em relação à falta de inovação, questões técnicas e a fórmula de jogo envelhecida.",
       "plataforma": "PS5",
       "val3": 3,
       "id": 44
     },
     {
-      "url": "https://m.media-amazon.com/images/I/61MXORMRgML._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/ki0STHGAkIF06Q4AU8Ow4OkV.png?w=440&thumb=false",
       "name": "Horizon - Forbidden West ",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/SqRcyLjZbpK26ej6TnWf43xp.jpg?w=5000&thumb=false",
       "descricao": "Horizon Forbidden West é um jogo eletrônico de RPG de ação desenvolvido pela Guerrilla Games e publicado pela Sony Interactive Entertainment. Foi lançado em 18 de fevereiro de 2022 para PlayStation 4 e PlayStation 5. É a sequência de Horizon Zero Dawn, de 2017, sendo ambientada em um mundo aberto pós-apocalíptico com uma perspectiva em terceira pessoa. O jogador controla a protagonista Aloy, uma caçadora de máquinas, enquanto viaja para uma América ocidental devastada por tempestades maciças e máquinas mortais.",
       "plataforma": "PS5",
       "val3": 5,
       "id": 45
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81QfmDJdOdS._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202111/2000/nPfqr4Qn0WiCLWV7rvxV3z0O.png?w=440&thumb=false",
       "name": "Call of Duty BLack Ops Cold War",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1101/kG7wVsECFlr1lWXHbO7LZ0Nt.png?w=1920&thumb=false,%20https://image.api.playstation.com/vulcan/ap/rnd/202011/1101/kG7wVsECFlr1lWXHbO7LZ0Nt.png?w=1920&thumb=false%201.5x,%20https://image.api.playstation.com/vulcan/ap/rnd/202011/1101/kG7wVsECFlr1lWXHbO7LZ0Nt.png?w=5000&thumb=false",
       "descricao": "Call of Duty: Black Ops Cold War é um jogo de tiro em primeira pessoa desenvolvido pela Treyarch e Raven Software e publicado pela Activision.[3][4] É o quinto jogo da série Black Ops, e o décimo sétimo jogo da série Call of Duty ao todo. Serve como uma sequência direta de Call of Duty: Black Ops (2010) e uma prequela direta de Call of Duty: Black Ops II (2012). Call of Duty: Black Ops Cold War foi lançado em 13 de novembro de 2020.\n\nA revelação mundial da campanha foi em 26 de agosto de 2020, enquanto o do multiplayer chegou em 9 de setembro.[5]\n\nBlack Ops Cold War se passa nos anos 1980 da Guerra Fria. A campanha segue Russell Adler, um operador da CIA, em perseguição com um suposto espião soviético, Perseus, cujo objetivo declarado é subverter os Estados Unidos e inclinar o equilíbrio de poder em direção à União Soviética.",
       "plataforma": "PS5",
       "val3": 5,
       "id": 46
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81ED9VvfBwL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1018/9erXiwu0ozgKGPIUVTuy2siN.png?w=440&thumb=false",
       "name": "Horizon - Zero Down",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/SqRcyLjZbpK26ej6TnWf43xp.jpg?w=5000&thumb=false",
       "descricao": "Horizon Zero Dawn é um jogo eletrônico de RPG de ação pós-apocalíptico em um mundo aberto, desenvolvido pela Guerrilla Games (publicado pela Sony Interactive Entertainment), apresentado em 2015 na conferencia da Sony na feira E3 e lançado em 28 de fevereiro de 2017 para o console PlayStation 4 e em 7 de agosto de 2020 para o sistema Microsoft Windows.[1]\n\nSegue a trama de Aloy, uma caçadora em um mundo invadido por máquinas, que decide descobrir seu passado, explorando o mundo para descobrir locais e realizar missões secundárias.\n\nHorizon Zero Dawn é a primeira propriedade intelectual da Guerrilla Games desde Killzone, de 2004, e seu primeiro jogo de RPG. O desenvolvimento começou em 2011 após a conclusão de Killzone 3, com o diretor Mathijs de Jonge considerando a ideia mais arriscada lançada na época. O motor gráfico do jogo, Decima, foi desenvolvido para Killzone: Shadow Fall e melhorado para Horizon Zero Dawn. Antropólogos foram consultados para autenticar a decadência do mundo do jogo ao longo de um milênio e de seu cenário pós-apocalíptico. A trilha sonora foi liderada pelo compositor Joris de Man, com contribuições da dupla The Flight.\n\nHorizon Zero Dawn foi bem recebido pela crítica, com elogios para o seu mundo aberto, história, visual, combate, caracterização e atuação da dubladora Ashly Burch; no entanto, os diálogos, o combate corpo a corpo e os modelos dos personagens receberam algumas críticas. O jogo venceu vários prêmios e vendeu mais de 20 milhões de cópias até fevereiro de 2022, tornando-o um dos jogos mais vendidos de PlayStation 4 de todos os tempos. Uma expansão intitulada The Frozen Wilds foi lançada em novembro de 2017. Sua sequência, Horizon Forbidden West, foi lançada em fevereiro de 2022 para PlayStation 4 e PlayStation 5",
       "plataforma": "PS4",
       "val3": 5,
       "id": 47
     },
     {
-      "url": "https://m.media-amazon.com/images/I/611I35n-PvL._AC_SL1215_.jpg",
+      "url": "https://image.api.playstation.com/cdn/UP2746/CUSA14046_00/0sdmApE8KNjQkMY5y3PFa7KJzf7MIx2K.png?w=440&thumb=false",
       "name": "WORLD WAR Z",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202009/2808/9BLGIeD8OgI8cCbOEDbYjdnw.jpg?w=5000&thumb=false",
       "descricao": "WWZ Game",
       "plataforma": "PS4",
       "val3": 2,
       "id": 48
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81tATFPbXBL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/cfn/11307ljbeAeXVxWwxJX3DYUCsoCSCasnReYXeQW40TOdsoTIKP4IIwue54XIlycYe9k4sXzH7iGnp_Qht-f9r3gCvWIOZJGd.png?w=440&thumb=false",
       "name": "THE DIVISION 2",
+      "cover": "https://image.api.playstation.com/vulcan/img/cfn/11307csk38uPL6obzhpBf7spwUDZz7Sxm_7Nwl11vBGYxeb0DexRvXezcP1LQe9ZeLOHMmf2LCRYyv525wI9sUgpG5IZdsau.jpg?w=5000&thumb=false",
       "descricao": "Tom Clancy's The Division 2 é um jogo eletrônico de RPG de ação multijogador desenvolvido pela Massive Entertainment e publicado pela Ubisoft.[1] A continuação de Tom Clancy's The Division (2016), é ambientada em um futuro próximo em Washington, D.C., após uma pandemia de varíola, e segue um agente da Divisão de Pátria Estratégica, na tentativa de reconstruir a cidade. O jogo foi lançado para Microsoft Windows, PlayStation 4 e Xbox One em 15 de março de 2019.",
       "plataforma": "PS4",
       "val3": 3,
       "id": 49
     },
     {
-      "url": "https://m.media-amazon.com/images/I/61ooPrIK2SL._AC_SL1215_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/cfn/11307mWaEjTEJ0S9Mvb64cBPBluyR6_ZLrGrDyjnj8U50MVUD4vvRZ7vT915N8GwntDoRJosrxIcYOjlPIkLtqqH_IQI4MlI.png?w=440&thumb=false",
       "name": "CALL OF DUTY - BLACK OPS III",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/VlpIrzsZJ7YZ26ChK68UjEE6.png?w=5000&thumb=false",
       "descricao": "Call of Duty: Black Ops III é um jogo de tiro em primeira pessoa produzido pela Treyarch e lançado no dia 6 de novembro de 2015 pela Activision para Microsoft Windows, PlayStation 4 e Xbox One.\n\nÉ o décimo terceiro título Call of Duty, contudo, a campanha desse jogo não é uma continuação do arco \"Black Ops\", que se iniciou em Call of Duty: World at War (2008) e foi até Black Ops II. Uma versão limitada que apenas inclui os modos multiplayer foi produzida pelos estúdios Beenox e Mercenary Technology e lançada para PlayStation 3 e Xbox 360.\n\nEm Abril de 2015, a Activision lançou a campanha #backinblack, revelando mais tarde em várias plataformas oficiais que um novo Black Ops estava em produção. Black Ops III foi então formalmente mostrado a 26 de abril. Call of Duty: Black Ops III é o segundo jogo da série depois de Call of Duty: Advanced Warfare que beneficiou de um ciclo de três anos de produção. Call of Duty: Black Ops III tem lugar num futuro distópico em 2065, 40 anos depois de Black Ops II, \"atirando os jogadores para um futuro negro e distorcido em que uma nova raça de soldados Black Ops emerge\".\n\nCall of Duty: Black Ops III foi bem recebido pelos críticos da especialidade. No site de pontuações agregadas Metacritic, as versões Microsoft Windows, PlayStation 4 e Xbox One tiveram 78/100, 81/100 e 83/100, respectivamente, o que indica \"análises geralmente favoráveis\". Um sucesso comercial, arrecadou $550 milhões em apenas três dias, tornando-se no maior lançamento do ano na indústria do entretenimento.",
       "plataforma": "PS4",
       "val3": 3,
       "id": 50
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71vEitfSl-L._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/cdn/UP0002/CUSA00803_00/z5p1CPfhzrRxMWSN0k4V6ZGDvADYnh3x.png?w=440&thumb=false",
       "name": "CALL OF DUTY - ADVANCED WARFARE",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/DEjSIXJr34PEZC75zH2aWony.png?w=5000&thumb=false",
       "descricao": "Call of Duty: Advanced Warfare é um jogo de tiro em primeira pessoa produzido pela Sledgehammer Games e publicado pela Activision (Square Enix no Japão). É o décimo primeiro jogo principal da série Call of Duty e o primeiro a ser produzido principalmente pela Sledgehammer Games. Foi lançado para Microsoft Windows, PlayStation 4, Xbox One, Xbox 360 e PlayStation 3 no dia 4 de Novembro de 2014. Em adição, um dia antes do lançamento oficial foi editada a Call of Duty: Advanced Warfare - Day Zero Edition que continha XP duplo para o primeiro dia e duas armas exclusivas.\n\nAs versões PlayStation 3 e Xbox 360 foram produzidas pelo High Moon Studios, assim como houve uma colaboração da Raven Software para a criação do multijogador. É o primeiro jogo da série que não foi lançado numa plataforma da Nintendo desde Call of Duty: Modern Warfare 2 (2009).\n\nA história começa em 2054, ano em que a organização terrorista KVA fez vários ataques em simultâneo a reactores nucleares pelo mundo inteiro, fazendo com que os governos fiquem em tumulto e com as defesas incapacitadas. Como resultado, os Estados Unidos procuram a Corporação Atlas, a maior e mais poderosa companhia militar privada que tem como CEO e fundador Jonathan Irons (Kevin Spacey), para ajudar na luta assim como para a reconstrução da ordem global. O jogador controla Jack Mitchell (Troy Baker), um soldado da Atlas e um ex-Fuzileiro que perdeu o seu braço esquerdo numa batalha contra a Coreia do Norte em Seul. Mitchell com o apoio de outros soldados e de tecnologia de ponta, tem de lutar contra o KVA, enquanto descobre uma conspiração mundial que envolve a Atlas.\n\nCall of Duty: Advanced Warfare teve um ciclo de produção de três anos ao invés dos habituais dois. De acordo com a Activision, este novo ciclo de produção fez com que a Sledgehammer Games conseguisse criar um mundo quase foto-realista, diferente de tudo o que a série já tinha apresentado até então. Foi usado um novo motor caseiro construído de raiz, isto apesar das novas animações, renderizações, os novos sistemas de física e o áudio trabalharem com os códigos antigos.\n\nCall of Duty: Advanced Warfare foi bem recebido pelos críticos. Os sites de críticas agregadas GameRankings e Metacritic dão à versão PlayStation 4 83.26% e 83/100 e à versão Xbox One 82.88% e 81/100, respectivamente. A empresa NPD Group revelou que Call of Duty: Advanced Warfare foi o jogo mais vendido em 2014 nos Estados Unidos.",
       "plataforma": "PS4",
-      "val3": 2,
+      "val3": 3,
       "id": 51
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81V2f9NNWPL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/cdn/EP0001/CUSA02376_00/IK3koKU9jw2vs3b8CF41x9lEcvAIiVpa6z7oGxWvMPHrHnoEbMD53jsGmdiLMP65.png?w=440&thumb=false",
       "name": "ASSASSIN'S CREED - SYNDICATE",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/0220/y7N5IayWNS7e008hUsfgPkh1.jpg?w=5000&thumb=false",
       "descricao": "Assassin's Creed Syndicate é um jogo eletrônico de ação-aventura desenvolvido pela Ubisoft Quebec e publicado pela Ubisoft. Syndicate é o nono jogo principal da franquia Assassin's Creed, sucessor de Assassin's Creed: Unity (2014), publicado em 23 de Outubro de 2015 para PlayStation 4 e Xbox One e em 19 de Novembro de 2015 para Microsoft Windows, o jogo foi portado para o Google Stadia em 15 de Dezembro de 2020.[1]\n\nO enredo decorre em Londres, em 1868, durante a Revolução Industrial, e conta a história dos gêmeos Jacob Frye e Evie Frye que percorrem o mundo do crime organizado na Era Vitoriana, lutando para restabelecer a ordem controlada pelos Templários.\n\nTal como nos jogos anteriores da série, Syndicate permanece com a perspectiva em terceira pessoa e a exploração em mundo aberto, mas introduz novos sistemas de navegação, incluindo a possibilidade do jogador poder trocar livremente de protagonista, bem como melhorias nas mecânicas de combate e de stealth. Ao contrário do seu antecessor, Syndicate não tem qualquer tipo de modos multijogador nem nenhum aplicativo móvel associado.\n\nSyndicate recebeu análises, em geral, positivas da imprensa especializada, elogiado quase por unanimidade como uma melhoria de Unity. As criticas recaíram, sobretudo, pelo jogo não ter melhorado a fórmula, sendo muito parecido com os títulos anteriores. A sua sequência, Assassin's Creed Origins, foi lançada em outubro de 2017 ",
       "plataforma": "PS4",
       "val3": 3,
       "id": 52
     },
     {
-      "url": "https://m.media-amazon.com/images/I/91nP3qUR3pL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png?w=440&thumb=false",
       "name": "FAR CRY 5",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/0222/3GrW7o7urwVJwMZEL463EJRH.jpg?w=5000&thumb=false",
       "descricao": "Far Cry 5 é um jogo eletrônico de tiro em primeira pessoa de ação-aventura ambientado em um mundo aberto. Foi desenvolvido pela Ubisoft Montreal e publicado pela Ubisoft para Microsoft Windows, PlayStation 4 e Xbox One em 27 de março de 2018 e foi lançado no 3 de Novembro para o Google Stadia, junto com o Far Cry: New Dawn.[3] É o décimo titulo da serie Far Cry e o quinto jogo principal.[4]\n\nEm Far Cry 5 o jogador assume o papel de um delegado de xerife que foi enviado ao condado fictício de Hope County, em Montana, para prender Joseph Seed (chamado de \"O Pai\" por seus seguidores, os \"Edenetes\"). Seed é um pregador radical que acredita que foi escolhido por Deus para proteger o povo de Hope County de um \"colapso inevitável\". Ele é o criador e líder da seita cristã \"Projeto do Portão do Éden\", um culto apocalíptico religioso e militar.\n\nFar Cry 5 foi bem recebido pela crítica após o seu lançamento, apesar de ter sido objeto de controvérsia depois de ter sido anunciado ao lado de um período de intensos conflitos políticos. Os críticos elogiaram o design do mundo aberto, o seu visual e trilha sonora, mas dirigiram críticas para sua história e alguns dos personagens. O jogo teve um bom desempenho comercial e se tornou o título mais vendido da franquia, arrecadando mais de 310 milhões de dólares em sua primeira semana de vendas. Vários pacotes de conteúdo para download (DLC) foram lançados. Um título de spin-off e continuação da narrativa, Far Cry: New Dawn, foi lançado em fevereiro de 2019.",
       "plataforma": "PS4",
       "val3": 4,
       "id": 53
     },
     {
-      "url": "https://m.media-amazon.com/images/I/610b1Sw9hGL._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/cdn/UP0006/CUSA08724_00/knyiQNrzbp6tEe8t04AYRhhJUF5wLIGO.png?w=440&thumb=false",
       "name": "BATTLEFIELD V",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/CMyTUxgeMmcaJFJvnYltXzG7.jpg?w=5000&thumb=false",
       "descricao": "Battlefield V é um jogo eletrônico de tiro em primeira pessoa, desenvolvido pela DICE e publicado pela Electronic Arts. É o décimo sexto jogo da série Battlefield. Foi lançado mundialmente para Microsoft Windows, PlayStation 4 e Xbox One em 20 de novembro de 2018. O jogo continua a partir de seu precursor Battlefield 1, concentrando-se na Segunda Guerra Mundial",
       "plataforma": "PS4",
       "val3": 5,
       "id": 54
     },
     {
-      "url": "https://m.media-amazon.com/images/I/81naA2c0FKL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2318/ca9f73eaff9ea919bd155d160796afacd98f8e5954c80a4b.png?w=440&thumb=false",
       "name": "AVENGERS",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202111/1814/n7UmKNPcZKKZNb8J1PxPWgsa.jpg?w=5000&thumb=false",
       "descricao": "Marvel's Avengers[n 2] é um jogo eletrônico de RPG de Ação com foco em combates corpo a corpo, desenvolvido pela Crystal Dynamics e Eidos Montréal e publicado pela Square Enix. Baseado na equipe Vingadores das histórias em quadrinhos da Marvel Comics, o jogo é inspirado principalmente na iteração do grupo do Universo Cinematográfico Marvel, bem como na longa mitologia de quadrinhos. O enredo principal do jogo se passa cinco anos após o A-Day, um dia de celebração para os Vingadores em que uma tragédia resultou em morte e destruição, com os Vingadores sendo considerados culpados. A equipe é forçada a se reunir para salvar o mundo do perigo na forma de I.M.A., liderada por George Tarleton / MODOK, que ameaça acabar com o mundo dos super-heróis.\n\nA jogabilidade é apresentada a partir de uma perspectiva em terceira pessoa e pode ser jogada tanto para um jogador quanto para múltiplos jogadores; o jogo apresenta um modo cooperativo on-line, permitindo que os jogadores montem uma equipe de heróis próprios. Os personagens jogáveis iniciais são Steve Rogers / Capitão América, Tony Stark / Homem de Ferro, Bruce Banner / Hulk, Thor, Natasha Romanoff / Viúva Negra e Kamala Khan / Ms. Marvel, com mais disponíveis para os jogadores após o lançamento como atualizações gratuitas, que também inclui novas regiões a serem exploradas. Cada herói possui uma variedade de recursos de personalização de skins, bem como a capacidade de atualizar seus poderes e habilidades usando uma árvore de habilidades.\n\nMarvel's Avengers foi lançado para Google Stadia, Microsoft Windows, PlayStation 4 e Xbox One em 4 de setembro de 2020. O jogo recebeu críticas mistas após o lançamento, com críticos elogiando sua história e jogabilidade, mas criticando sua interface de usuário e questões técnicas. Ele também foi lançado para PlayStation 5 e Xbox Series X/S em 18 de março de 2021, com jogadores de PlayStation 4 e Xbox One sendo capazes de atualizar para a versão de próxima geração gratuitamente",
       "plataforma": "PS4",
       "val3": 3,
       "id": 55
     },
     {
-      "url": "https://m.media-amazon.com/images/I/817oumYSwcL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202111/0818/wgpQjT76y2QtCHtDdFHPdrgu.png?w=440&thumb=false",
       "name": "BATTLEFIELD 2042",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202111/0818/N3Qx662KLjKh8joesTiy4YPc.png?w=5000&thumb=false",
       "descricao": "Battlefield 2042 é um jogo eletrônico de tiro em primeira pessoa desenvolvido pela DICE e publicado pela Electronic Arts. É o décimo sétimo título da série Battlefield e a sequência de Battlefield V, de 2018. Foi lançado em 19 de novembro de 2021, para Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One e Xbox Series X/S. Ao contrário dos jogos mais recentes da franquia, Battlefield 2042 é exclusivamente multijogador e não possui uma campanha para um jogador. Além disso, o jogo conta com jogabilidade multiplataforma, elemento inédito na série.",
       "plataforma": "PS4",
       "val3": 2,
       "id": 56
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71CmMstkGjL._AC_SL1215_.jpg",
+      "url": "https://image.api.playstation.com/cdn/UP0002/CUSA08603_00/m08GbANRol6VudoOh7Qse1qf7H3iOKvr.png?w=440&thumb=false",
       "name": "CALL OF DUTY - WW2",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/2ayZQhljrVwBCDctw74y0ncL.jpg?w=5000&thumb=false",
       "descricao": "Call of Duty: WWII (abreviação de World War II) é um jogo de tiro em primeira pessoa produzido pela Sledgehammer Games e distribuído pela Activision, lançado mundialmente em 3 de novembro de 2017[1] para PlayStation 4, Xbox One e Microsoft Windows (PC).\n\nO jogo foi anunciado em 21 de abril de 2017 com um trailer de revelação completo em 26 de abril de 2017. É o primeiro jogo da série Call of Duty a se passar durante a Segunda Guerra Mundial desde Call of Duty: World at War, em 2008.",
       "plataforma": "PS4",
       "val3": 5,
       "id": 57
     },
     {
-      "url": "https://images-na.ssl-images-amazon.com/images/I/819zQmqyDcL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1416/HXBxcRRNOpjREOW3GpBndz3u.png?w=440&thumb=false",
       "name": "ASSASSIN'S CREED - VALHALLA",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/3023/PnqfxnHGmf9E826ECuEM9niQ.jpg?w=5000&thumb=false",
       "descricao": "Assassin's Creed Valhalla é um jogo eletrônico de RPG de ação desenvolvido pela Ubisoft Montreal e publicado pela Ubisoft.[1] O sucessor de Assassin's Creed Odyssey, é o décimo segundo título principal e o vigésimo segundo lançamento da série Assassin's Creed foi lançado dia 10 de novembro de 2020 para Google Stadia, Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One e Xbox Series X.[2] Usando uma história alternativa, em Valhalla o jogador controla Eivor, um guerreiro Viking durante as Invasoes da Grã Bretanha no século IX.\n\nFoi bem recebido pelos criticos; o site OpenCritic deu a pontuação de 84/100 com base em 127 análises.",
       "plataforma": "PS4",
       "val3": 4,
       "id": 58
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71ekFvMw6rL._AC_SL1500_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1020/FKgazVvG7BcWouCr39mIiXkW.png?w=440&thumb=false",
       "name": "THE LAST OF US",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2716/wYq1UsVEyQp6dT6cS1omgKiJ.png?w=5000&thumb=false",
       "descricao": "The Last of Us é um jogo eletrônico de ação-aventura e sobrevivência desenvolvido pela Naughty Dog e publicado pela Sony Computer Entertainment. Ele foi lançado exclusivamente para PlayStation 3 em 14 de junho de 2013. Na história, os jogadores controlam Joel, um homem encarregado de escoltar uma adolescente chamada Ellie através de um Estados Unidos pós-apocalíptico. The Last of Us é jogado a partir de uma perspectiva em terceira pessoa, com os jogadores usando armas de fogo, armas improvisadas e furtividade a fim de defenderem-se de humanos hostis e criaturas canibalísticas infectadas por uma mutação do fungo Cordyceps. Um \"Modo de Escuta\" permite a localização de inimigos por meio de uma escuta e percepção espacial aprimoradas. Armas podem ser melhoradas usando itens recolhidos do ambiente. Há um modo multijogador online em que até oito jogadores podem entrar em diferentes modos de partidas cooperativas ou competitivas.\n\nO desenvolvimento de The Last of Us começou em 2009 logo depois da finalização de Uncharted 2: Among Thieves, o título anterior da Naughty Dog. A relação entre Joel e Ellie foi o foco central do jogo, com todos os outros elementos de história e jogabilidade desenvolvendo-se ao seu redor. A equipe criativa escolheu os atores Troy Baker e Ashley Johnson a fim de interpretarem os personagens principais, que realizaram a captura de movimentos e dublagem para seus respectivos papéis. Ambos auxiliaram o diretor de criação Neil Druckmann com o desenvolvimento da história e personagens. Novos motores de jogo foram criados para satisfazer as necessidades técnicas, com a inteligência artificial de Ellie sendo um grande ponto de desenvolvimento e aprimoramento. A trilha sonora original foi composta por Gustavo Santaolalla, enquanto os efeitos sonoros assumiram um ponto de vista mais naturalista e minimalista do que em outros jogos de ação.\n\nThe Last of Us foi anunciado em 2011, gerando grande expectativa. Ele foi aclamado pela crítica especializada, com elogios sendo direcionados particularmente para sua caracterização, enredo, subtexto, exploração da condição humana e representação de personagens femininas. O título tornou-se um dos jogos mais bem vendidos do PlayStation 3, vendendo mais de 1,3 milhões de cópias apenas em sua primeira semana e mais de oito milhões depois de catorze meses. The Last of Us é considerado como um dos melhores jogos eletrônicos da história, tendo vencido vários prêmios de Jogo do Ano. Um conteúdo para download chamado Left Behind foi lançado em fevereiro de 2014, com sua história se passando antes do jogo principal e centrando-se em Ellie e sua melhor amiga Riley. Uma remasterização intitulada The Last of Us Remastered foi lançada em julho de 2014 para PlayStation 4, enquanto sua sequência The Last of Us Part II foi lançada em junho de 2020. Uma recriação, intitulada The Last of Us Part I, foi lançada em setembro de 2022 para PlayStation 5 e, posteriormente, para Microsoft Windows.",
       "plataforma": "PS4",
       "val3": 4,
       "id": 59
     },
     {
-      "url": "https://http2.mlstatic.com/D_NQ_NP_959990-MLB50809733832_072022-O.webp",
-      "name": "Medal Of Honor - Vanguard",
-      "descricao": "Medal of Honor: Vanguard é um jogo de tiro em primeira pessoa de 2007 desenvolvido pela EA Los Angeles e publicado pela EA Games para PlayStation 2 e Nintendo Wii.[1][2] É a décima edição da série Medal of Honor.",
-      "plataforma": "PS2",
+      "url": "https://image.api.playstation.com/cdn/UP0001/CUSA05218_00/63T1d1DF4NxGIiLextGj25rqOm24FM8F.png?w=440&thumb=false",
+      "name": "For Honor",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/SmA73G7vzlWnpmVxSEoikcwR.jpg?w=5000&thumb=false",
+      "descricao": "Encare o caos da guerra e escolha sua facção. Jogue como um Cavaleiro destemido, um Viking Brutal ou um Samurai letal. Vivencie a emocionante história da campanha sozinho ou em co-op e lute em modos multiplayer PvP brutais, agora em servidores dedicados. Escolha uma facção, empunhe sua espada e lute com seus aliados para sobreviver no inovador PvP de combate corpo a corpo. APROVEITE UMA EXPERIENCIA EVOLUIDA: com 12 heróis básicos, 18 mapas, novos modos PvP e classificatório, milhares de itens de equipamento e muito mais desde o lançamento. OS SERVIDORES DEDICADOS oferecem uma experiência estável e contínua na sua luta para cantar vitória para a sua facção. GANHE RECOMPENSAS e aprenda a arte do combate com um novo modo de treino que leva você de Aprendiz a Mestre. PERSONALIZE SEUS HERÓIS com milhares de diferentes armas, emblemas e mais.",
+      "plataforma": "PS4",
       "val3": 5,
       "id": 60
     },
     {
-      "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRj1d9Gxs9Bc8Qxnym3VUwXKUBRW7fipXH9Oro2tp_sOau5_F_MAFszpB19eDoGZyWMUmSpfGcVvJolnL5jaogG-G5hDIU2O2ind_9ltUe741kdXFmo7CGa&usqp=CAE",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202109/2218/JelPN9rNJfDtoQJTwDsa0deG.png?w=440&thumb=false",
       "name": "Call Of Duty - Vanguard",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1102/pO4SHCrXt52UPEMTSZMraIY8.png?w=5000&thumb=false",
       "descricao": "Call of Duty: Vanguard é um jogo de tiro em primeira pessoa desenvolvido pela Sledgehammer Games e publicado pela Activision.[4][5] Foi lançado em 5 de novembro de 2021 para Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One e Xbox Series X/S.[6]\n\nServe como o décimo oitavo título da franquia Call of Duty, estabelecendo um enredo baseado no nascimento das forças especiais para enfrentar uma ameaça emergente no final da Segunda Guerra Mundial. O contexto do enredo atual é contado em flashbacks dos personagens através de várias frentes da guerra.",
       "plataforma": "PS4",
       "val3": 5,
@@ -275,68 +309,58 @@
   ],
   "favoritos": [
     {
-      "url": "https://m.media-amazon.com/images/I/61OZeW+pPYL._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png?w=440&thumb=false",
       "name": "THE LAST OF US PART II",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/UIRjzDjQKrOD4kx6ubmlOsrA.png?w=5000&thumb=false,%20https://image.api.playstation.com/vulcan/img/rnd/202010/2618/UIRjzDjQKrOD4kx6ubmlOsrA.png?w=5000&thumb=false%201.5x,%20https://image.api.playstation.com/vulcan/img/rnd/202010/2618/UIRjzDjQKrOD4kx6ubmlOsrA.png?w=5000&thumb=false%202x",
       "descricao": "The Last of Us Part II é um jogo eletrônico de ação-aventura desenvolvido pela Naughty Dog e publicado pela Sony Interactive Entertainment. É o segundo jogo da franquia e foi lançado em 19 de junho de 2020 exclusivamente para PlayStation 4. Ambientado cinco anos após os eventos de The Last of Us (2013), o jogador assume o papel de duas protagonistas em um Estados Unidos pós-apocalíptico: Ellie, que busca por vingança após um evento traumático, e Abby, uma soldada que se envolve em um conflito entre uma milícia e um culto. O jogo contém elementos de survival horror e é jogado numa perspectiva de terceira pessoa. Os jogadores podem usar armas de fogo, arcos, armas improvisadas, esquiva e furtividade para se defenderem de seres humanos hostis e criaturas infectadas por uma mutação do fungo Cordyceps.\n\nSeu desenvolvimento durou seis anos, pouco depois do lançamento de Remastered (2014). O jogo foi oficialmente revelado durante o evento PlayStation Experience em dezembro de 2016. Neil Druckmann retornou como diretor criativo e escritor, juntamente com Halley Gross. A temática do jogo, que aborda sobre vingança e retribuição, foram inspirados nas experiências de Druckmann crescendo em Israel. Ashley Johnson e Troy Baker repetem seus papéis como Ellie e Joel, respectivamente, enquanto Laura Bailey foi escalada como Abby. Suas performances incluíram a captura simultânea de movimento e voz. Os desenvolvedores impulsionaram os recursos técnicos do PlayStation 4 durante o desenvolvimento. O músico Gustavo Santaolalla voltou a compor e executar a partitura. O desenvolvimento supostamente incluiu uma agenda de 12 horas de jornada de trabalho, recebendo alguns adiamentos em decorrência também da pandemia de COVID-19.\n\nPart II recebeu críticas positivas pelos avaliadores. Os elogios foram direcionados à jogabilidade aprimorada em relação ao seu antecessor, fidelidade visual e performances do elenco, enquanto seu enredo e as apresentações de seus temas através da violência receberam opiniões divididas da crítica e do público. O título é um dos jogos mais vendidos do PlayStation 4 e o exclusivo desta plataforma mais rapidamente vendido, com mais de quatro milhões de unidades comercializadas em seus primeiros três dias de lançamento e mais de dez milhões até 2022. Part II recebeu múltiplos prêmios e indicações, incluindo muitos de Jogo do Ano.",
       "plataforma": "PS4",
       "val3": 4,
       "id": 27
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71XrxGqPosL._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png?w=440&thumb=false",
       "name": "Red Dead - Rendemption 2",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1215/WyHa1BM3ISDVqYSEUMB9VZJs.png?w=5000&thumb=false",
       "descricao": "Red Dead Redemption 2 é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Rockstar Games. É o terceiro título da série Red Dead e uma prequela de Red Dead Redemption, tendo sido lançado em outubro de 2018 para PlayStation 4 e Xbox One e em novembro de 2019 para Microsoft Windows e Google Stadia. A história se passa em 1899 em uma representação ficcional do oeste, meio-oeste e sul dos Estados Unidos e acompanha o fora da lei Arthur Morgan, que precisa lidar com o declínio do Velho Oeste e sobreviver à perseguição de forças governamentais, gangues rivais e outros adversários.\n\nA jogabilidade é apresentada tanto em uma perspectiva em primeira quanto em terceira pessoa, com o jogador sendo livre para explorar e interagir com o mundo aberto. Elementos de jogabilidade incluem tiroteios, assaltos, caça, cavalgadas, interação com personagens não jogáveis e gerenciamento da honra do protagonista por meio de escolhas morais e atos. Um sistema de recompensa similar àquele presente na série Grand Theft Auto governa as respostas da polícia e caçadores de recompensa aos crimes cometidos pelo jogador. Um modo multijogador chamado de Red Dead Online estreou em novembro de 2018.\n\nO desenvolvimento do título começou logo depois do lançamento de Red Dead Redemption em 2010 e foi compartilhado entre todas desenvolvedoras da Rockstar Games ao redor do mundo. A equipe se inspirou em locais reais, focando-se na criação de uma reflexão fiel do período temporal por meio dos personagens e do mundo de jogo. Red Dead Redemption 2 foi o primeiro jogo da Rockstar Games desenvolvido especificamente para os consoles da oitava geração. A trilha sonora original inclui músicas orquestrais compostas por Woody Jackson e várias faixas vocais produzidas por Daniel Lanois.\n\nRed Dead Redemption 2 foi amplamente antecipado pré-estreia, tendo batido vários recordes e tornado-se o segundo maior lançamento da indústria do entretenimento. Ele arrecadou mais de 725 milhões de dólares em seu fim de semana de estreia e superou as vendas totais do primeiro Red Dead Redemption em apenas duas semanas, já tendo vendido mundialmente mais de 44 milhões de cópias.[1] Ele foi aclamado pela crítica especializada, com elogios direcionados para sua história, personagens, mundo aberto e nível de detalhes. Considerado por múltiplas publicações como um dos melhores jogos eletrônicos de todos os tempos, Red Dead Redemption 2 também venceu diversos prêmios de final de ano, incluindo alguns de Jogo do Ano.",
       "plataforma": "PS4",
       "val3": 5,
       "id": 37
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71+15NSh+NL._AC_SL1500_.jpg",
-      "name": "Uncharted V Lost legacy",
-      "descricao": "Uncharted: The Lost Legacy é um jogo eletrônico de ação-aventura desenvolvido pela Naughty Dog e publicado pela Sony Interactive Entertainment. É um título derivado da série Uncharted e uma expansão autônoma de Uncharted 4: A Thief's End, tendo sido lançado exclusivamente para PlayStation 4 em agosto de 2017. Na história, os jogadores controlam Chloe Frazer, uma caçadora de tesouros que parte à procura da lendária Presa de Ganexa nas montanhas da Índia no meio de uma guerra civil com a ajuda da ex-mercenária Nadine Ross. The Lost Legacy é jogado a partir de uma perspectiva em terceira pessoa e incorpora diversos elementos de plataforma e controle de veículos na navegação pelos diferentes ambientes. Os jogadores usam armas de fogo, combate corpo a corpo e furtividade a fim de combaterem inimigos e solucionarem quebra-cabeças.\n\nO desenvolvimento de The Lost Legacy começou em 2016, logo depois da finalização de A Thief's End, inicialmente como um conteúdo para download para o jogo original. A equipe explorou diversas possibilidades de história, escolhendo por criar uma experiência mais condensada que pudesse ser criada e lançada em pouco tempo. Vários possíveis protagonistas foram contemplados até Chloe e Nadine serem escolhidas. A história de The Lost Legacy se foca em uma região geográfica específica e suas particularidades de filosofia e cultura, diferentemente de títulos anteriores que focaram-se em figuras história, pois os desenvolvedores tiveram menos tempo para realizarem pesquisas. A equipe da Naughty Dog conseguiu aprimorar seus processos de produção com o objetivo de permitir a criação de áreas de exploração maiores do que em jogos anteriores.\n\nThe Lost Legacy foi anunciado oficialmente em dezembro de 2016 na PlayStation Experience. O título foi bem recebido pela crítica especializada, com elogios sendo direcionados particularmente para seu projeto de jogo, caracterização de personagens, boas interações entre Chloe e Nadine e o roteiro em geral, com as principais críticas se focando em sua grande similaridade com a jogabilidade A Thief's End e pouca inovação em relação a seus predecessores. Críticos também consideraram que o jogo era uma prova que a franquia Uncharted poderia continuar sem a presença de Nathan Drake, o protagonista de todos os títulos anteriores. Teve um bom desempenho comercial, vendendo ao todo mais duas milhões de unidades mundialmente. The Lost Legacy também venceu e foi indicado a diversos prêmios, além de ter aparecido em várias listas de melhores jogos do ano.",
-      "plataforma": "PS4",
-      "val3": 3,
-      "id": 38
-    },
-    {
-      "url": "https://m.media-amazon.com/images/I/610b1Sw9hGL._AC_SL1000_.jpg",
+      "url": "https://image.api.playstation.com/cdn/UP0006/CUSA08724_00/knyiQNrzbp6tEe8t04AYRhhJUF5wLIGO.png?w=440&thumb=false",
       "name": "BATTLEFIELD V",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/CMyTUxgeMmcaJFJvnYltXzG7.jpg?w=5000&thumb=false",
       "descricao": "Battlefield V é um jogo eletrônico de tiro em primeira pessoa, desenvolvido pela DICE e publicado pela Electronic Arts. É o décimo sexto jogo da série Battlefield. Foi lançado mundialmente para Microsoft Windows, PlayStation 4 e Xbox One em 20 de novembro de 2018. O jogo continua a partir de seu precursor Battlefield 1, concentrando-se na Segunda Guerra Mundial",
       "plataforma": "PS4",
       "val3": 5,
       "id": 54
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71CmMstkGjL._AC_SL1215_.jpg",
+      "url": "https://image.api.playstation.com/cdn/UP0002/CUSA08603_00/m08GbANRol6VudoOh7Qse1qf7H3iOKvr.png?w=440&thumb=false",
       "name": "CALL OF DUTY - WW2",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/2ayZQhljrVwBCDctw74y0ncL.jpg?w=5000&thumb=false",
       "descricao": "Call of Duty: WWII (abreviação de World War II) é um jogo de tiro em primeira pessoa produzido pela Sledgehammer Games e distribuído pela Activision, lançado mundialmente em 3 de novembro de 2017[1] para PlayStation 4, Xbox One e Microsoft Windows (PC).\n\nO jogo foi anunciado em 21 de abril de 2017 com um trailer de revelação completo em 26 de abril de 2017. É o primeiro jogo da série Call of Duty a se passar durante a Segunda Guerra Mundial desde Call of Duty: World at War, em 2008.",
       "plataforma": "PS4",
       "val3": 5,
       "id": 57
     },
     {
-      "url": "https://m.media-amazon.com/images/I/71ekFvMw6rL._AC_SL1500_.jpg",
-      "name": "THE LAST OF US",
-      "descricao": "The Last of Us é um jogo eletrônico de ação-aventura e sobrevivência desenvolvido pela Naughty Dog e publicado pela Sony Computer Entertainment. Ele foi lançado exclusivamente para PlayStation 3 em 14 de junho de 2013. Na história, os jogadores controlam Joel, um homem encarregado de escoltar uma adolescente chamada Ellie através de um Estados Unidos pós-apocalíptico. The Last of Us é jogado a partir de uma perspectiva em terceira pessoa, com os jogadores usando armas de fogo, armas improvisadas e furtividade a fim de defenderem-se de humanos hostis e criaturas canibalísticas infectadas por uma mutação do fungo Cordyceps. Um \"Modo de Escuta\" permite a localização de inimigos por meio de uma escuta e percepção espacial aprimoradas. Armas podem ser melhoradas usando itens recolhidos do ambiente. Há um modo multijogador online em que até oito jogadores podem entrar em diferentes modos de partidas cooperativas ou competitivas.\n\nO desenvolvimento de The Last of Us começou em 2009 logo depois da finalização de Uncharted 2: Among Thieves, o título anterior da Naughty Dog. A relação entre Joel e Ellie foi o foco central do jogo, com todos os outros elementos de história e jogabilidade desenvolvendo-se ao seu redor. A equipe criativa escolheu os atores Troy Baker e Ashley Johnson a fim de interpretarem os personagens principais, que realizaram a captura de movimentos e dublagem para seus respectivos papéis. Ambos auxiliaram o diretor de criação Neil Druckmann com o desenvolvimento da história e personagens. Novos motores de jogo foram criados para satisfazer as necessidades técnicas, com a inteligência artificial de Ellie sendo um grande ponto de desenvolvimento e aprimoramento. A trilha sonora original foi composta por Gustavo Santaolalla, enquanto os efeitos sonoros assumiram um ponto de vista mais naturalista e minimalista do que em outros jogos de ação.\n\nThe Last of Us foi anunciado em 2011, gerando grande expectativa. Ele foi aclamado pela crítica especializada, com elogios sendo direcionados particularmente para sua caracterização, enredo, subtexto, exploração da condição humana e representação de personagens femininas. O título tornou-se um dos jogos mais bem vendidos do PlayStation 3, vendendo mais de 1,3 milhões de cópias apenas em sua primeira semana e mais de oito milhões depois de catorze meses. The Last of Us é considerado como um dos melhores jogos eletrônicos da história, tendo vencido vários prêmios de Jogo do Ano. Um conteúdo para download chamado Left Behind foi lançado em fevereiro de 2014, com sua história se passando antes do jogo principal e centrando-se em Ellie e sua melhor amiga Riley. Uma remasterização intitulada The Last of Us Remastered foi lançada em julho de 2014 para PlayStation 4, enquanto sua sequência The Last of Us Part II foi lançada em junho de 2020. Uma recriação, intitulada The Last of Us Part I, foi lançada em setembro de 2022 para PlayStation 5 e, posteriormente, para Microsoft Windows.",
-      "plataforma": "PS4",
-      "val3": 4,
-      "id": 59
-    },
-    {
-      "url": "https://http2.mlstatic.com/D_NQ_NP_959990-MLB50809733832_072022-O.webp",
-      "name": "Medal Of Honor - Vanguard",
-      "descricao": "Medal of Honor: Vanguard é um jogo de tiro em primeira pessoa de 2007 desenvolvido pela EA Los Angeles e publicado pela EA Games para PlayStation 2 e Nintendo Wii.[1][2] É a décima edição da série Medal of Honor.",
-      "plataforma": "PS2",
-      "val3": 5,
-      "id": 60
-    },
-    {
-      "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRj1d9Gxs9Bc8Qxnym3VUwXKUBRW7fipXH9Oro2tp_sOau5_F_MAFszpB19eDoGZyWMUmSpfGcVvJolnL5jaogG-G5hDIU2O2ind_9ltUe741kdXFmo7CGa&usqp=CAE",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202109/2218/JelPN9rNJfDtoQJTwDsa0deG.png?w=440&thumb=false",
       "name": "Call Of Duty - Vanguard",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1102/pO4SHCrXt52UPEMTSZMraIY8.png?w=5000&thumb=false",
       "descricao": "Call of Duty: Vanguard é um jogo de tiro em primeira pessoa desenvolvido pela Sledgehammer Games e publicado pela Activision.[4][5] Foi lançado em 5 de novembro de 2021 para Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One e Xbox Series X/S.[6]\n\nServe como o décimo oitavo título da franquia Call of Duty, estabelecendo um enredo baseado no nascimento das forças especiais para enfrentar uma ameaça emergente no final da Segunda Guerra Mundial. O contexto do enredo atual é contado em flashbacks dos personagens através de várias frentes da guerra.",
       "plataforma": "PS4",
       "val3": 5,
       "id": 61
+    },
+    {
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1020/FKgazVvG7BcWouCr39mIiXkW.png?w=440&thumb=false",
+      "name": "THE LAST OF US",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2716/wYq1UsVEyQp6dT6cS1omgKiJ.png?w=5000&thumb=false",
+      "descricao": "The Last of Us é um jogo eletrônico de ação-aventura e sobrevivência desenvolvido pela Naughty Dog e publicado pela Sony Computer Entertainment. Ele foi lançado exclusivamente para PlayStation 3 em 14 de junho de 2013. Na história, os jogadores controlam Joel, um homem encarregado de escoltar uma adolescente chamada Ellie através de um Estados Unidos pós-apocalíptico. The Last of Us é jogado a partir de uma perspectiva em terceira pessoa, com os jogadores usando armas de fogo, armas improvisadas e furtividade a fim de defenderem-se de humanos hostis e criaturas canibalísticas infectadas por uma mutação do fungo Cordyceps. Um \"Modo de Escuta\" permite a localização de inimigos por meio de uma escuta e percepção espacial aprimoradas. Armas podem ser melhoradas usando itens recolhidos do ambiente. Há um modo multijogador online em que até oito jogadores podem entrar em diferentes modos de partidas cooperativas ou competitivas.\n\nO desenvolvimento de The Last of Us começou em 2009 logo depois da finalização de Uncharted 2: Among Thieves, o título anterior da Naughty Dog. A relação entre Joel e Ellie foi o foco central do jogo, com todos os outros elementos de história e jogabilidade desenvolvendo-se ao seu redor. A equipe criativa escolheu os atores Troy Baker e Ashley Johnson a fim de interpretarem os personagens principais, que realizaram a captura de movimentos e dublagem para seus respectivos papéis. Ambos auxiliaram o diretor de criação Neil Druckmann com o desenvolvimento da história e personagens. Novos motores de jogo foram criados para satisfazer as necessidades técnicas, com a inteligência artificial de Ellie sendo um grande ponto de desenvolvimento e aprimoramento. A trilha sonora original foi composta por Gustavo Santaolalla, enquanto os efeitos sonoros assumiram um ponto de vista mais naturalista e minimalista do que em outros jogos de ação.\n\nThe Last of Us foi anunciado em 2011, gerando grande expectativa. Ele foi aclamado pela crítica especializada, com elogios sendo direcionados particularmente para sua caracterização, enredo, subtexto, exploração da condição humana e representação de personagens femininas. O título tornou-se um dos jogos mais bem vendidos do PlayStation 3, vendendo mais de 1,3 milhões de cópias apenas em sua primeira semana e mais de oito milhões depois de catorze meses. The Last of Us é considerado como um dos melhores jogos eletrônicos da história, tendo vencido vários prêmios de Jogo do Ano. Um conteúdo para download chamado Left Behind foi lançado em fevereiro de 2014, com sua história se passando antes do jogo principal e centrando-se em Ellie e sua melhor amiga Riley. Uma remasterização intitulada The Last of Us Remastered foi lançada em julho de 2014 para PlayStation 4, enquanto sua sequência The Last of Us Part II foi lançada em junho de 2020. Uma recriação, intitulada The Last of Us Part I, foi lançada em setembro de 2022 para PlayStation 5 e, posteriormente, para Microsoft Windows.",
+      "plataforma": "PS4",
+      "val3": 4,
+      "id": 59
     }
   ]
 }

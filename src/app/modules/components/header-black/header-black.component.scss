@@ -1,0 +1,13 @@
+.header {
+  background-color: black;
+  height: 30px;
+  float: right;
+  width: 100%;
+  position: relative;
+  z-index: 3;
+
+&__brand h3{
+float: right;
+padding: 0.4em;
+}
+}

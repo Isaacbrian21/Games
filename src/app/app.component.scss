@@ -1,25 +1,7 @@
-.h {
-  background-color: black;
-  height: 60px;
-
-  &__options {
-    display: flex;
-    justify-content: space-around;
-    line-height: 60px;
-
-    &__list a {
-      color: aliceblue;
-      text-decoration: none;
-    }
-
-    &__list a:hover {
-      background-color: white;
-      color: black;
-    }
-
-    &__list .activated {
-      background-color: white;
-      color: black;
-    }
-  }
+*{
+  margin: 0;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
