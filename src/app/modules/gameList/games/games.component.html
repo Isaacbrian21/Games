@@ -1,77 +1,84 @@
+<main class="component">
+
+  <!-- All values -->
+  <section class="game-section">
+    <div class="game-section__card" *ngFor="let game of games">
+      <div class="game-section__card__img_plat">
+        <img src="{{ game.url }}" alt="" />
+        <h6 class="game-section__card__img_plat__overlay-text">{{ game.plataforma }}</h6>
+      </div>
+      <div class="game-section__card__name">
+        <p-rating [ngModel]="game.val3" [readonly]="true" [stars]="5" [cancel]="false"></p-rating>
+        <h3>{{ game.name }}</h3>
+      </div>
+
+      <div class="game-section__card__buttons">
+
+        <button  pButton pRipple type="button" class="p-button-raised p-button-danger" *ngIf="game"
+        (click)="addFavorito(game)"> <i class="pi pi-heart"></i></button>
+
+        <button  pButton pRipple type="button" (click)="onEdit(game)" class="p-button-raised p-button-warning">
+          <i class="pi pi-pencil"></i></button>
+
+          <button  pButton pRipple type="button" routerLink="/games/details/{{game.id}}"
+          class="p-button-raised p-button-primary"> <i class="pi pi-info-circle"></i></button>
+        </div>
+
+      </div>
+  </section>
 
 
-<p-toast></p-toast>
+</main>
+
+
+
+
+
+
+
+
+
 <div class="addNewGame">
-
   <button pButton pRipple type="button" label="Adcionar um novo" class="p-button-raised p-button-primary"
     routerLink="/newg"></button>
 </div>
-<section class="main">
 
-  <div class="main__card">
-    <ul *ngFor="let game of games">
-      <li class="main__card__game">
-          <img src="{{ game.url }}" alt="" />
+<p-dialog header="Editar Game" [(visible)]="dialog" [style]="{width: '440px'}" [modal]="true" [maximizable]="true">
+  <ng-template pTemplate="content">
+    <form action="" class="needs-validation" novalidate [formGroup]="form">
+      <div class="form-row" style="padding-top: 10px">
+        <span class="p-float-label">
+          <label for="url">Url Image:</label>
+          <input id="float-input" type="text" id="url" formControlName="url" pInputText>
+        </span>
+        <br>
+        <span class="p-float-label">
+          <label for="name">Name:</label>
+          <input id="float-input" type="text" id="name" formControlName="name" pInputText>
+        </span>
+        <br>
+        <span class="p-float-label">
+          <label for="descricao">Descrição:</label>
+          <textarea pInputTextarea d="float-input" type="text" id="descricao" formControlName="descricao"></textarea>
+        </span>
+        <br>
+        <span class="p-float-label">
+          <label for="plataforma">Plataforma:</label>
+          <input id="float-input" type="text" id="plataforma" pInputText formControlName="plataforma">
+        </span>
+        <br>
+        <span class="p-float-label">
+          <label for="float-input" for="val3">Avaliação:</label>
+          <input id="p-input" type="number" pInputText id="val3" placeholder="Nota" formControlName="val3">
+        </span>
+      </div>
+      <div style="margin: 10px 0 10px 0 ;">
+        <button pButton pRipple type="button" label="Salvar" class="p-button-raised p-button-primary"
+          (click)="updateGame()"></button>
+      </div>
+    </form>
+  </ng-template>
+</p-dialog>
 
-        <div class="main__card__game__letters">
-          <h6>{{ game.name }}</h6>
-          <h5>{{ game.plataforma }}</h5>
-          <p-rating [ngModel]="game.val3" [readonly]="true" [stars]="5" [cancel]="false"></p-rating>
-        </div>
-
-        <div class="main__card__game__btn">
-          <button pButton pRipple type="button" class="p-button-raised p-button-danger" *ngIf="game"
-            (click)="addFavorito(game)"> <i class="pi pi-heart"></i></button>
-
-          <button pButton pRipple type="button" (click)="onEdit(game)" class="p-button-raised p-button-warning"> <i
-              class="pi pi-pencil"></i></button>
-
-              <button pButton pRipple type="button" routerLink="/games/details/{{game.id}}" class="p-button-raised p-button-primary"> <i
-                class="pi pi-info-circle"></i></button>
-        </div>
-      </li>
-    </ul>
-  </div>
-
-
-  <p-dialog header="Editar Game" [(visible)]="dialog" [style]="{width: '440px'}" [modal]="true" [maximizable]="true">
-
-    <ng-template pTemplate="content">
-
-
-      <form action="" class="needs-validation" novalidate [formGroup]="form">
-        <div class="form-row" style="padding-top: 10px">
-          <span class="p-float-label">
-            <label for="url">Url Image:</label>
-            <input id="float-input" type="text" id="url" formControlName="url" pInputText>
-          </span>
-          <br>
-          <span class="p-float-label">
-            <label for="name">Name:</label>
-            <input id="float-input" type="text" id="name" formControlName="name" pInputText>
-          </span>
-          <br>
-          <span class="p-float-label">
-            <label for="descricao">Descrição:</label>
-            <textarea pInputTextarea d="float-input" type="text" id="descricao" formControlName="descricao"></textarea>
-
-          </span>
-          <br>
-          <span class="p-float-label">
-            <label for="plataforma">Plataforma:</label>
-            <input id="float-input" type="text" id="plataforma" pInputText formControlName="plataforma">
-          </span>
-          <br>
-          <span class="p-float-label">
-            <label for="float-input" for="val3">Avaliação:</label>
-            <input id="p-input" type="number" pInputText id="val3" placeholder="Nota" formControlName="val3">
-          </span>
-        </div>
-        <div style="margin: 10px 0 10px 0 ;">
-          <button pButton pRipple type="button" label="Salvar" class="p-button-raised p-button-primary"
-            (click)="updateGame()"></button>
-        </div>
-      </form>
-    </ng-template>
-  </p-dialog>
-</section>
+<!-- Toas to show a message -->
+<p-toast></p-toast>

@@ -3,10 +3,11 @@
 <p-toast></p-toast>
 <p-confirmDialog [style]="{width: '50vw'}" [baseZIndex]="10000"></p-confirmDialog>
 
-<h1>MEUS FAVORITOS</h1>
-<section class="favorite-section">
+<main class="component">
 
-<!-- All values -->
+  <section class="favorite-section">
+
+    <!-- All values -->
   <div class="favorite-section__card" *ngFor="let favorito of favoritos">
     <div class="favorite-section__card__img_plat">
       <img src="{{ favorito.url }}" alt="" />
@@ -21,3 +22,4 @@
       favoritos</button>
   </div>
 </section>
+</main>
