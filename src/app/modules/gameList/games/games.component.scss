@@ -6,20 +6,72 @@
 
 } */
 
- .component {
+.component {
   padding: 5em;
   display: flex;
   justify-content: center;
   width: 100%;
+  background-image: url(https://image.api.playstation.com/vulcan/ap/rnd/202106/1704/CThITKGLtVx842gN7MeKC8TJ.jpg?w=5000&thumb=false);
+  background-repeat: no-repeat;
+  background-size: contain;
+  flex-direction: column;
+  padding: 0;
+  border: 0;
+
+}
+
+.header-game {
+  margin-top: 30em;
+  width: 100%;
+  z-index: 1;
+  background: white;
+  height: 10em;
+  color: black;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), 0 3px 9px rgba(0, 0, 0, 0.22);
+  display: flex;
+  justify-content: space-around;
+
+  &__text {
+    padding-top: 2em;
+
+    h1 {
+
+      font-weight: lighter;
+      padding-bottom: 2em;
+    }
+
+    h3 {
+      font-weight: lighter;
+    }
+
+  }
+
+  &__btn {
+    padding-top: 3em;
+
+    .butt {
+      background-color: #0070cc;
+      font-weight: bold;
+      border-radius: 2em;
+      padding: 1em;
+      color: white;
+    }
+    .butt:hover{
+      background-color: #00447c;
+      cursor: pointer;
+    }
+
+  }
 }
 
 .game-section {
+  background: white;
   width: 100%;
   display: flex;
   justify-content: space-between;
   justify-content: center;
   flex-wrap: wrap;
-  flex-direction:row;
+  flex-direction: row;
 
   &__card {
     position: relative;

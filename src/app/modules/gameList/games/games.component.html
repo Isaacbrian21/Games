@@ -1,5 +1,16 @@
 <main class="component">
 
+
+  <header class="header-game">
+    <div class="header-game__text">
+      <h1>Escolhas do desenvolvedor</h1>
+      <h3>Jogos de todos os estilos e clássicos Playstation</h3>
+    </div>
+    <div class="header-game__btn">
+      <button class="butt"
+      routerLink="/newg">Adcionar</button>
+    </div>
+  </header>
   <!-- All values -->
   <section class="game-section">
     <div class="game-section__card" *ngFor="let game of games">
@@ -38,10 +49,7 @@
 
 
 
-<div class="addNewGame">
-  <button pButton pRipple type="button" label="Adcionar um novo" class="p-button-raised p-button-primary"
-    routerLink="/newg"></button>
-</div>
+
 
 <p-dialog header="Editar Game" [(visible)]="dialog" [style]="{width: '440px'}" [modal]="true" [maximizable]="true">
   <ng-template pTemplate="content">
