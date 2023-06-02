@@ -41,6 +41,8 @@ export class GamesComponent implements OnInit {
 
   ngOnInit(): void { }
 
+  
+
   get formControls() {
     return this.form.controls;
   }
