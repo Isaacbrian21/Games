@@ -1,12 +1,11 @@
 .component {
   padding: 5em;
   display: flex;
-  min-height: 100vh;
   justify-content: center;
   width: 100%;
   background-image: url(https://image.api.playstation.com/vulcan/ap/rnd/202106/1704/CThITKGLtVx842gN7MeKC8TJ.jpg?w=5000&thumb=false);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 100%;
   flex-direction: column;
   padding: 0;
   border: 0;
