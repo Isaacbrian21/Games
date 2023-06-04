@@ -5,10 +5,11 @@
   width: 100%;
   background-image: url(https://image.api.playstation.com/vulcan/ap/rnd/202106/1704/CThITKGLtVx842gN7MeKC8TJ.jpg?w=5000&thumb=false);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: contain;
   flex-direction: column;
   padding: 0;
   border: 0;
+
 }
 
 .header-game {

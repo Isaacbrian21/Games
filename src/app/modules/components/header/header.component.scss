@@ -5,32 +5,41 @@
   height: 100px;
   background-color: #ffffff;
   display: flex;
-  justify-content: space-around;
   font-weight: bold;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), 0 3px 9px rgba(0, 0, 0, 0.22);
 
-  &__options {
+  &__links{
+    width: 50%;
     display: flex;
+  }
+  &__menus {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
 
-    &__list a {
-      line-height: 100px;
-      color: black;
-      text-decoration: none;
-    }
+    &__options {
+      display: flex;
 
-    &__list a:hover {
-      background-color: rgb(212, 212, 212);
-      padding: 0.3em;
-      border-radius: 1em;
-      color: black;
-    }
+      &__list a {
+        line-height: 100px;
+        color: black;
+        text-decoration: none;
+      }
 
-    &__list .activated {
-      background-color: whitesmoke;
-      border-radius: 1em;
-      padding: 0.3em;
-      border: 1px solid black;
-      color: black;
+      &__list a:hover {
+        background-color: rgb(212, 212, 212);
+        padding: 0.3em;
+        border-radius: 1em;
+        color: black;
+      }
+
+      &__list .activated {
+        background-color: whitesmoke;
+        border-radius: 1em;
+        padding: 0.3em;
+        border: 1px solid black;
+        color: black;
+      }
     }
   }
 }

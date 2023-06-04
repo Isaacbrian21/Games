@@ -30,6 +30,7 @@ export class AddgameComponent implements OnInit {
       id: [''],
       url: ['', [Validators.required, Validators.minLength(10)]],
       name: ['', [Validators.required, Validators.minLength(3)]],
+      cover: ['', [Validators.required, Validators.minLength(10)]],
       descricao: ['', [Validators.required, Validators.minLength(5)]],
       plataforma: ['', [Validators.required, Validators.minLength(2)]],
       val3: [null, [Validators.required, Validators.minLength(1)]],
@@ -41,6 +42,7 @@ export class AddgameComponent implements OnInit {
       id: games.id,
       url: games.url,
       name: games.name,
+      cover: games.cover,
       descricao: games.descricao,
       plataforma: games.plataforma,
       val3: games.val3
@@ -69,10 +71,9 @@ export class AddgameComponent implements OnInit {
   removeGame(game: Games): void {
     this.games = this.games.filter((g) => game.name !== g.name);
     this.gamesService.remove(game.id).subscribe();
-    console.log(`O  ${game.name}  foi deletado da lista de jogos`);
     this.messageService.add({severity:'error', summary: 'Excluido!', detail: 'O game foi excluído com sucesso'});
   }
 
-  
+
 }
 
