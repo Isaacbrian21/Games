@@ -41,7 +41,7 @@ export class GamesComponent implements OnInit {
 
   ngOnInit(): void { }
 
-  
+
 
   get formControls() {
     return this.form.controls;
@@ -67,7 +67,8 @@ export class GamesComponent implements OnInit {
       next: c => {
         this.messageService.add({ severity: 'success', summary: 'Favoritado!', detail: 'O game adcionado aos favoritos', icon: 'pi-file' });
       },
-      error: err => this.messageService.add({ severity: 'error', summary: 'Ihhh, deu ruim!', detail: 'O já foi adcionado aos favoritos antes', icon: 'pi-file' })
+      error: err => this.messageService.add({ severity: 'success', summary: 'Favoritado!', detail: 'O game adcionado aos favoritos', icon: 'pi-file' })
+      //error: err => this.messageService.add({ severity: 'error', summary: 'Ihhh, deu ruim!', detail: 'O já foi adcionado aos favoritos antes', icon: 'pi-file' })
     });
     console.log(favoritos);
 
@@ -79,6 +80,7 @@ export class GamesComponent implements OnInit {
     this.form = this.fb.group({
       url: [game.url, [Validators.required, Validators.minLength(10)]],
       name: [game.name, [Validators.required, Validators.minLength(3)]],
+      cover: [game.cover, [Validators.required, Validators.minLength(3)]],
       descricao: [game.descricao, [Validators.required, Validators.minLength(5)]],
       plataforma: [game.plataforma, [Validators.required, Validators.minLength(2)]],
       val3: [game.val3, [Validators.required, Validators.minLength(1)]],

@@ -57,7 +57,6 @@ export class FavGameComponent implements OnInit {
         this.favoritos = this.favoritos.filter((f) => favorito.name !== f.name)
         this.favoriteService.removeFav(favorito.id).subscribe()
         this.messageService.add({ severity: 'success', summary: 'Feito!', detail: `O ${favorito.name} foi  removido dos seus favoritos com sucesso` });
-        this.messageService.add({ severity: 'info', summary: 'Que pena', detail: 'Para adciona-lo novamente ou outro titulo volte até a aba Games e selecione "Adcionar aos favoritos!" ' });
       },
       reject: () => {
         this.messageService.add({ severity: 'error', summary: 'Nada feito!', detail: `O ${favorito.name} não foi removido dos seus favoritos` });
@@ -70,17 +69,14 @@ export class FavGameComponent implements OnInit {
     this.favoriteService.getFav().subscribe((fav) => {
       this.favoritos = fav;
       this.gamesLength = fav.length
-      /* setTimeout(() => {
-        this.animate.requestEnded();
-      }, 7000)
-      this.animate.requestStarted(); */
+
     })
   }
 
   removeFav(favorito: Favorito): void {
     this.favoritos = this.favoritos.filter((f) => favorito.name !== f.name)
     this.favoriteService.removeFav(favorito.id).subscribe()
-    console.log(`removendo ${favorito.name}`);
+
 
   }
 

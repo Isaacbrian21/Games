@@ -7,6 +7,7 @@ import { Games } from 'src/app/core/models/games.models';
   providedIn: 'root',
 })
 export class GamesService {
+/*   private apiUrl = 'http://localhost:3000/games'; */
   private apiUrl = 'https://games-database-iota.vercel.app/games';
 
 

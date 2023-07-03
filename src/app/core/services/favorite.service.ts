@@ -8,6 +8,7 @@ import { Favorito } from 'src/app/core/models/fav.models';
   providedIn: 'root'
 })
 export class FavoriteService {
+  /* private favUrl = '  http://localhost:3000/favoritos' */
   private favUrl = 'https://games-database-iota.vercel.app/favoritos'
   constructor(private http: HttpClient) { }
 
