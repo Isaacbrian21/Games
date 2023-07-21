@@ -1,6 +1,6 @@
-<main class="component">
-  <header class="header-game">
-    <div class="header-game__text">
+<div class="game-story">
+  <div>
+    <div class="title">
       <h1>Bem vindo(a)!</h1>
       <h3>Fiz esta aplicação destinada a jogos que gosto entre outros disponíveis no site da Playstation store.</h3>
       <p>Minha paixão por video games se inicou em 2004 quando meu então padastro adquiriu um Playstation 1.
@@ -14,10 +14,19 @@
         Playstation 4 ainda durará bastante tempo.
       </p>
     </div>
-    <div class="header-game__btn">
+  </div>
 
-    </div>
-  </header>
-  <section class="home-section">
-  </section>
-</main>
+  <div class="infinit-scroll">
+    <p>Titulos favoritos</p>
+  </div>
+  <div class="container">
+    <div><img src="{{ favoritos[0]?.url }}" alt="" /></div>
+    <div><img src="{{ favoritos[1]?.url }}" alt="" /></div>
+    <div><img src="{{ favoritos[2]?.url }}" alt="" /></div>
+    <div><img src="{{ favoritos[3]?.url }}" alt="" /></div>
+    <div><img src="{{ favoritos[4]?.url }}" alt="" /></div>
+    <div><img src="{{ favoritos[5]?.url }}" alt="" /></div>
+    <div><img src="{{ favoritos[6]?.url }}" alt="" /></div>
+    <div><img src="{{ favoritos[7]?.url }}" alt="" /></div>
+  </div>
+</div>

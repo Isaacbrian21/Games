@@ -1,4 +1,23 @@
-<app-header-black></app-header-black>
-<app-header></app-header>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+<div class="desktop">
+  <header class="desktop__header">
+    <div class="desktop__header__menus">
+      <li class="desktop__header__menus__options__list"> <a routerLink="/home" routerLinkActive="activated">Home</a></li>
+      <li class="desktop__header__menus__options__list"> <a routerLink="/games" routerLinkActive="activated">Games</a></li>
+      <li class="desktop__header__menus__options__list"> <a routerLink="/favGames" routerLinkActive="activated">Favoritos</a></li>
+    </div>
+  </header>
+</div>
+
+<div class="mobile">
+  <header class="mobile__header">
+    <div class="mobile__header__menus">
+      <li class="mobile__header__menus__options__list"> <a routerLink="/home" routerLinkActive="activated"  class="material-symbols-outlined">home</a></li>
+      <li class="mobile__header__menus__options__list"> <a routerLink="/games" class="material-symbols-outlined" routerLinkActive="activated">stadia_controller</a></li>
+      <li class="mobile__header__menus__options__list"> <a routerLink="/favGames" class="material-symbols-outlined" routerLinkActive="activated">star</a></li>
+    </div>
+  </header>
+</div>
+
 <router-outlet></router-outlet>
-<app-load-animate></app-load-animate>

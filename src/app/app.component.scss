@@ -1,7 +1,108 @@
-*{
+* {
   margin: 0;
   border: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+.mobile {
+  display: none;
+}
+
+.desktop {
+
+  &__header {
+    width: 100%;
+    height: 75px;
+    background-color: #ffffff;
+    display: flex;
+    font-weight: bold;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), 0 3px 9px rgba(0, 0, 0, 0.22);
+
+    &__menus {
+      display: flex;
+      justify-content: space-evenly;
+      width: 50%;
+      margin-top: 30px;
+
+      &__options {
+        display: flex;
+
+        &__list a {
+          color: black;
+          text-decoration: none;
+        }
+
+        &__list a:hover {
+          background-color: rgb(212, 212, 212);
+          padding: 0.3em;
+          border-radius: 1em;
+          color: black;
+        }
+
+        &__list .activated {
+          background-color: whitesmoke;
+          border-radius: 1em;
+          padding: 0.3em;
+          border: 1px solid black;
+          color: black;
+        }
+      }
+    }
+  }
+}
+
+
+@media (max-width: 620px) {
+  .desktop {
+    display: none;
+  }
+
+  .mobile {
+    display: flex;
+
+    &__header {
+      position: fixed;
+      z-index: 1;
+      width: 100%;
+      height: 75px;
+      background-color: #ffffff;
+      display: flex;
+      font-weight: bold;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), 0 3px 9px rgba(0, 0, 0, 0.22);
+
+      &__menus {
+        display: flex;
+        justify-content: space-evenly;
+        width: 65%;
+        margin-top: 30px;
+
+        &__options {
+          display: flex;
+
+          &__list a {
+            color: black;
+            text-decoration: none;
+          }
+
+          &__list a:hover {
+            background-color: rgb(212, 212, 212);
+            padding: 0.3em;
+            border-radius: 1em;
+            color: black;
+            font-size: 1.5em;
+          }
+
+          &__list .activated {
+            background-color: whitesmoke;
+            border-radius: 1em;
+            padding: 0.3em;
+            border: 1px solid black;
+            color: black;
+            line-height: 10px;
+          }
+        }
+      }
+    }
+  }
+}

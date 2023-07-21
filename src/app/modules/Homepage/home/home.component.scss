@@ -1,55 +1,95 @@
-.component {
-  padding: 200px 100px 100px;
-  display: flex;
-  min-height: 100vh;
-  justify-content: center;
-  min-width: 100%;
+:host {
+  display: block;
+  height: 100vh;
+  width: 100%;
   background-image: url(../../../../assets/home-kratos.jpg);
   background-repeat: no-repeat;
-  background-size:  contain 100%;
-  flex-direction: column;
-  padding: 0;
-  border: 0;
+  background-size: cover;
+  background-position: center;
 }
 
-.header-game {
-  margin-top: 30em;
-  width: 100%;
-  z-index: 1;
-  background: white;
-  height: 40vh;
+.game-story {
+  padding-top: 10px;
+  position: relative;
+  overflow: hidden;
   color: black;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), 0 3px 9px rgba(0, 0, 0, 0.22);
-  display: flex;
-  justify-content: space-around;
-  height: 500px;
+  background-color: #fff;
+  top: 100vh;
+  height: auto;
+  justify-content: center;
+}
 
-  &__text {
-    padding-top: 2em;
-    width: 50%;
-    text-align: left;
+.title {
+  width: 70%;
+  color: black;
+  overflow: hidden;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
 
-    h1 {
-
-      font-weight: lighter;
-      padding-bottom: 2em;
-    }
-
-    h3 {
-      font-weight: lighter;
-    }
-
+@media (max-width: 620px) {
+  .title {
+    width: 85%;
   }
-.home-section{
+
+  .title h1 {
+    font-size: larger;
+    padding-bottom: 10px;
+  }
+
+  .title h3 {
+    font-size: medium;
+    padding-bottom: 10px;
+  }
+
+  .title p {
+    font-size: small;
+  }
+
+  .container div img {
+    max-height: 200px;
+    max-width: 200px;
+  }
+
+  .infinit-scroll p {
+    font-size: smaller;
+  }
+}
+
+.infinit-scroll {
+  width: 55%;
+  padding-top: 20px;
+  font-size: larger;
+
+
+}
+
+.container {
+  padding-top: 20px;
+  overflow: hidden;
   display: flex;
-  background: rgb(226, 226, 226);
+  height: 300px;
+  width: 1500px;
+  margin: 0 auto;
+  margin-bottom: 45px;
+  padding-bottom: 10px;
 }
 
+.container div img {
+  height: 300px;
+  width: 300px;
+  margin-left: 100px;
+  animation: slide 15s linear infinite;
+  border-radius: 10px;
 }
 
-@media (max-width: 620px){
+@keyframes slide {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
 
-  .header-game {
-    height: 170vh;
+  100% {
+    transform: translate3d(-1500px, 0, 0);
+    /* The image width */
   }
 }
